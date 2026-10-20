@@ -4,7 +4,7 @@ from collections import Counter
 from decimal import Decimal, ROUND_HALF_UP
 from pathlib import Path
 
-IN = Path(__file__).resolve().parent.parent / "data" / "inbox"
+IN = Path(__file__).resolve().parent.parent / "data"
 RAIN = {"2026-09-17", "2026-09-23", "2026-09-26"}
 q = lambda x, n=1: Decimal(x).quantize(Decimal(1).scaleb(-n), rounding=ROUND_HALF_UP)
 rows = []

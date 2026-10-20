@@ -8,7 +8,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 
 random.seed(1212)
-OUT = Path(__file__).resolve().parent.parent / "data" / "inbox"
+OUT = Path(__file__).resolve().parent.parent / "data"
 OUT.mkdir(parents=True, exist_ok=True)
 
 STATIONS = [  # station, poids au départ
