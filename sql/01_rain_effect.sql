@@ -1,0 +1,6 @@
+-- Rain effect : les deux requêtes du Script, sur l'entrepôt WH_Bixi (type Requête)
+-- Résultat 0 : trajets, jours, moyenne d'un jour sec, d'un jour de pluie, et la baisse en %
+-- Résultat 1 : la station n° 1 au départ et la part des vélos électriques
+-- Les trois jours de pluie de la période sont portés par une petite table VALUES (mm de pluie)
+WITH t AS (SELECT CAST(LEFT(CAST(started_at AS varchar(30)), 10) AS date) AS d FROM dbo.trips), w AS (SELECT CAST(d AS date) AS d, rain_mm FROM (VALUES ('2026-09-17', 12.4), ('2026-09-23', 8.1), ('2026-09-26', 21.6)) AS v(d, rain_mm)), j AS (SELECT t.d, COUNT(*) AS n, MAX(CASE WHEN w.d IS NULL THEN 0 ELSE 1 END) AS rainy FROM t LEFT JOIN w ON w.d = t.d GROUP BY t.d) SELECT SUM(n) AS trips, COUNT(*) AS days, CAST(AVG(CASE WHEN rainy = 0 THEN n * 1.0 END) AS decimal(6,1)) AS dry_avg, CAST(AVG(CASE WHEN rainy = 1 THEN n * 1.0 END) AS decimal(6,1)) AS rain_avg, CAST(100 - 100.0 * AVG(CASE WHEN rainy = 1 THEN n * 1.0 END) / AVG(CASE WHEN rainy = 0 THEN n * 1.0 END) AS decimal(4,1)) AS rain_drop_pct FROM j;
+SELECT TOP 1 start_station, COUNT(*) AS departures, (SELECT CAST(100.0 * SUM(CAST(ebike AS int)) / COUNT(*) AS decimal(4,1)) FROM dbo.trips) AS ebike_pct FROM dbo.trips GROUP BY start_station ORDER BY COUNT(*) DESC;
