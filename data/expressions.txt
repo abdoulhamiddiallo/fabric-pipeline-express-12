@@ -1,0 +1,110 @@
+PIPELINE 12 : BIXI MONTRÉAL, UN COPY JOB QUI SE SOUVIENT
+Chaque valeur est sur sa propre ligne : copiez la ligne entière, sans le titre entre crochets.
+
+==================== Objets ====================
+
+[Espace de travail]
+Fabric_Pipeline_12
+
+[Lakehouse]
+LH_Bixi
+
+[Dossier de dépôt dans Fichiers]
+inbox
+
+[Entrepôt]
+WH_Bixi
+
+==================== PL_Bixi ====================
+
+[Pipeline]
+PL_Bixi
+
+[Paramètre : nom]
+week
+
+[Paramètre : valeur par défaut]
+1
+
+==================== Land week (Copy data, Texte délimité vers une table) ====================
+
+[Nom de l'activité]
+Land week
+
+[Source : dossier]
+inbox
+
+[Source : nom de fichier (contenu dynamique)]
+@concat('bixi_week', pipeline().parameters.week, '.csv')
+
+[Destination : nouvelle table, action Ajouter]
+trips_raw
+
+[Mappage : type de destination par colonne]
+trip_id : long
+started_at : timestamp
+start_station : string
+end_station : string
+duration_min : integer
+ebike : integer
+
+==================== Consume file (Delete data) ====================
+
+[Nom de l'activité]
+Consume file
+
+[Dossier]
+inbox
+
+[Nom de fichier (contenu dynamique)]
+@concat('bixi_week', pipeline().parameters.week, '.csv')
+
+==================== CJ_Bixi (Copy job) ====================
+
+[Nom du Copy job]
+CJ_Bixi
+
+[Connexion de la source : nom]
+CN_LH_Bixi
+
+[Source : table]
+trips_raw
+
+[Colonne de filigrane]
+started_at
+
+[Méthode d'écriture Fusionner : colonne clé]
+trip_id
+
+[Destination : table dans WH_Bixi, schéma dbo]
+trips
+
+==================== Sync warehouse (activité Copy job) ====================
+
+[Nom de l'activité]
+Sync warehouse
+
+==================== Rain effect (Script sur WH_Bixi, type Requête) ====================
+
+[Nom de l'activité]
+Rain effect
+
+[Script : les deux requêtes, collées en une fois]
+WITH t AS (SELECT CAST(LEFT(CAST(started_at AS varchar(30)), 10) AS date) AS d FROM dbo.trips), w AS (SELECT CAST(d AS date) AS d, rain_mm FROM (VALUES ('2026-09-17', 12.4), ('2026-09-23', 8.1), ('2026-09-26', 21.6)) AS v(d, rain_mm)), j AS (SELECT t.d, COUNT(*) AS n, MAX(CASE WHEN w.d IS NULL THEN 0 ELSE 1 END) AS rainy FROM t LEFT JOIN w ON w.d = t.d GROUP BY t.d) SELECT SUM(n) AS trips, COUNT(*) AS days, CAST(AVG(CASE WHEN rainy = 0 THEN n * 1.0 END) AS decimal(6,1)) AS dry_avg, CAST(AVG(CASE WHEN rainy = 1 THEN n * 1.0 END) AS decimal(6,1)) AS rain_avg, CAST(100 - 100.0 * AVG(CASE WHEN rainy = 1 THEN n * 1.0 END) / AVG(CASE WHEN rainy = 0 THEN n * 1.0 END) AS decimal(4,1)) AS rain_drop_pct FROM j;
+SELECT TOP 1 start_station, COUNT(*) AS departures, (SELECT CAST(100.0 * SUM(CAST(ebike AS int)) / COUNT(*) AS decimal(4,1)) FROM dbo.trips) AS ebike_pct FROM dbo.trips GROUP BY start_station ORDER BY COUNT(*) DESC;
+
+==================== Post ride report (Microsoft Teams) ====================
+
+[Nom de l'activité]
+Post ride report
+
+[Titre]
+BIXI Montréal
+
+[Message (contenu dynamique)]
+BIXI Montréal, semaine @{pipeline().parameters.week} synchronisée. @{activity('Rain effect').output.resultSets[0].rows[0].trips} trajets en @{activity('Rain effect').output.resultSets[0].rows[0].days} jours. Jour sec : @{activity('Rain effect').output.resultSets[0].rows[0].dry_avg} trajets, jour de pluie : @{activity('Rain effect').output.resultSets[0].rows[0].rain_avg}, soit @{activity('Rain effect').output.resultSets[0].rows[0].rain_drop_pct} % de moins. Station n° 1 : @{activity('Rain effect').output.resultSets[1].rows[0].start_station} (@{activity('Rain effect').output.resultSets[1].rows[0].departures} départs). Vélos électriques : @{activity('Rain effect').output.resultSets[1].rows[0].ebike_pct} %.
+
+==================== Vérifier dans WH_Bixi ====================
+
+[Contrôle]
+SELECT LEFT(CAST(started_at AS varchar(30)), 10) AS jour, COUNT(*) AS trajets FROM dbo.trips GROUP BY LEFT(CAST(started_at AS varchar(30)), 10) ORDER BY jour;
