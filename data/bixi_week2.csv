@@ -1,0 +1,1626 @@
+trip_id,started_at,start_station,end_station,duration_min,ebike
+501773,2026-09-21 06:03:11,Parc La Fontaine,Métro Berri-UQAM,11,0
+501774,2026-09-21 06:04:40,Marché Jean-Talon,Rue Saint-Denis,20,1
+501775,2026-09-21 06:07:34,Vieux-Port,Université McGill,15,1
+501776,2026-09-21 06:14:55,Parc La Fontaine,Métro Atwater,20,1
+501777,2026-09-21 06:15:56,Marché Jean-Talon,Métro Atwater,19,0
+501778,2026-09-21 06:20:32,Vieux-Port,Métro Mont-Royal,11,0
+501779,2026-09-21 06:22:29,Canal de Lachine,Métro Atwater,13,0
+501780,2026-09-21 06:27:45,Métro Atwater,Vieux-Port,18,0
+501781,2026-09-21 06:27:56,Marché Jean-Talon,Parc Jarry,15,1
+501782,2026-09-21 06:29:08,Métro Berri-UQAM,Rue Saint-Denis,13,0
+501783,2026-09-21 06:30:24,Parc La Fontaine,Université McGill,7,0
+501784,2026-09-21 06:34:17,Parc La Fontaine,Métro Mont-Royal,3,0
+501785,2026-09-21 06:38:30,Métro Berri-UQAM,Métro Atwater,12,0
+501786,2026-09-21 06:39:04,Métro Berri-UQAM,Université McGill,13,0
+501787,2026-09-21 06:40:01,Rue Saint-Denis,Marché Jean-Talon,20,1
+501788,2026-09-21 06:48:36,Canal de Lachine,Parc Jarry,14,0
+501789,2026-09-21 06:49:46,Métro Berri-UQAM,Parc Jarry,17,0
+501790,2026-09-21 06:56:43,Canal de Lachine,Rue Saint-Denis,16,0
+501791,2026-09-21 06:59:10,Vieux-Port,Métro Atwater,12,1
+501792,2026-09-21 06:59:20,Rue Saint-Denis,Vieux-Port,15,0
+501793,2026-09-21 07:02:39,Canal de Lachine,Métro Berri-UQAM,21,1
+501794,2026-09-21 07:11:01,Parc Jarry,Métro Atwater,17,0
+501795,2026-09-21 07:14:50,Métro Mont-Royal,Canal de Lachine,10,1
+501796,2026-09-21 07:17:05,Métro Berri-UQAM,Parc La Fontaine,25,0
+501797,2026-09-21 07:22:36,Métro Mont-Royal,Métro Atwater,23,0
+501798,2026-09-21 07:23:16,Parc La Fontaine,Parc Jarry,12,0
+501799,2026-09-21 07:27:01,Parc Jarry,Rue Saint-Denis,3,1
+501800,2026-09-21 07:29:07,Marché Jean-Talon,Rue Saint-Denis,14,0
+501801,2026-09-21 07:39:32,Parc La Fontaine,Université McGill,9,0
+501802,2026-09-21 07:41:37,Canal de Lachine,Métro Mont-Royal,9,1
+501803,2026-09-21 07:42:30,Métro Berri-UQAM,Parc Jarry,9,1
+501804,2026-09-21 07:42:31,Métro Mont-Royal,Métro Atwater,10,1
+501805,2026-09-21 07:42:52,Métro Atwater,Parc La Fontaine,17,1
+501806,2026-09-21 07:50:40,Métro Mont-Royal,Métro Berri-UQAM,3,1
+501807,2026-09-21 07:52:53,Rue Saint-Denis,Parc Jarry,21,0
+501808,2026-09-21 07:55:47,Métro Mont-Royal,Parc Jarry,9,1
+501809,2026-09-21 07:59:19,Marché Jean-Talon,Parc La Fontaine,12,1
+501810,2026-09-21 08:04:24,Canal de Lachine,Métro Mont-Royal,4,1
+501811,2026-09-21 08:17:12,Canal de Lachine,Rue Saint-Denis,3,0
+501812,2026-09-21 08:19:55,Université McGill,Vieux-Port,17,1
+501813,2026-09-21 08:24:44,Rue Saint-Denis,Vieux-Port,3,1
+501814,2026-09-21 08:28:15,Rue Saint-Denis,Parc La Fontaine,8,0
+501815,2026-09-21 08:28:24,Université McGill,Métro Mont-Royal,9,0
+501816,2026-09-21 08:35:48,Marché Jean-Talon,Métro Atwater,8,0
+501817,2026-09-21 08:36:21,Université McGill,Rue Saint-Denis,10,0
+501818,2026-09-21 08:37:09,Métro Mont-Royal,Métro Atwater,9,0
+501819,2026-09-21 08:38:24,Université McGill,Parc Jarry,5,0
+501820,2026-09-21 08:38:54,Parc La Fontaine,Métro Atwater,8,1
+501821,2026-09-21 08:39:49,Métro Berri-UQAM,Parc Jarry,13,1
+501822,2026-09-21 08:41:05,Métro Berri-UQAM,Rue Saint-Denis,17,0
+501823,2026-09-21 08:41:35,Métro Mont-Royal,Vieux-Port,7,1
+501824,2026-09-21 08:46:39,Parc La Fontaine,Vieux-Port,3,0
+501825,2026-09-21 08:47:13,Université McGill,Canal de Lachine,5,0
+501826,2026-09-21 08:47:46,Parc Jarry,Rue Saint-Denis,8,0
+501827,2026-09-21 08:54:20,Parc La Fontaine,Métro Berri-UQAM,13,1
+501828,2026-09-21 08:56:54,Marché Jean-Talon,Rue Saint-Denis,3,1
+501829,2026-09-21 09:21:11,Parc Jarry,Canal de Lachine,19,1
+501830,2026-09-21 09:21:40,Métro Mont-Royal,Rue Saint-Denis,30,1
+501831,2026-09-21 09:24:42,Canal de Lachine,Vieux-Port,18,1
+501832,2026-09-21 09:27:04,Canal de Lachine,Rue Saint-Denis,15,1
+501833,2026-09-21 09:31:35,Métro Mont-Royal,Parc Jarry,14,1
+501834,2026-09-21 09:35:49,Vieux-Port,Marché Jean-Talon,6,1
+501835,2026-09-21 09:44:07,Université McGill,Rue Saint-Denis,6,1
+501836,2026-09-21 09:45:02,Parc Jarry,Métro Atwater,20,0
+501837,2026-09-21 09:45:14,Marché Jean-Talon,Parc La Fontaine,7,0
+501838,2026-09-21 09:52:17,Métro Mont-Royal,Métro Atwater,3,0
+501839,2026-09-21 09:55:08,Canal de Lachine,Métro Berri-UQAM,12,1
+501840,2026-09-21 09:56:27,Parc Jarry,Marché Jean-Talon,3,0
+501841,2026-09-21 10:05:02,Canal de Lachine,Métro Berri-UQAM,29,0
+501842,2026-09-21 10:05:59,Parc La Fontaine,Vieux-Port,13,0
+501843,2026-09-21 10:08:32,Métro Atwater,Rue Saint-Denis,15,0
+501844,2026-09-21 10:12:28,Marché Jean-Talon,Rue Saint-Denis,12,0
+501845,2026-09-21 10:16:02,Métro Berri-UQAM,Parc La Fontaine,11,0
+501846,2026-09-21 10:17:39,Métro Mont-Royal,Parc La Fontaine,20,1
+501847,2026-09-21 10:18:20,Métro Berri-UQAM,Parc Jarry,17,0
+501848,2026-09-21 10:23:49,Métro Atwater,Université McGill,9,1
+501849,2026-09-21 10:27:02,Marché Jean-Talon,Rue Saint-Denis,14,0
+501850,2026-09-21 10:30:44,Métro Berri-UQAM,Vieux-Port,19,0
+501851,2026-09-21 10:38:04,Métro Mont-Royal,Métro Berri-UQAM,9,0
+501852,2026-09-21 10:38:46,Université McGill,Métro Atwater,14,0
+501853,2026-09-21 10:38:54,Métro Berri-UQAM,Métro Atwater,16,1
+501854,2026-09-21 10:39:36,Parc Jarry,Métro Atwater,8,0
+501855,2026-09-21 10:40:29,Rue Saint-Denis,Parc Jarry,8,0
+501856,2026-09-21 10:41:58,Métro Atwater,Marché Jean-Talon,14,1
+501857,2026-09-21 10:43:05,Métro Mont-Royal,Parc Jarry,10,0
+501858,2026-09-21 10:43:38,Parc La Fontaine,Canal de Lachine,19,0
+501859,2026-09-21 10:48:17,Parc La Fontaine,Université McGill,13,0
+501860,2026-09-21 10:58:04,Parc La Fontaine,Canal de Lachine,16,0
+501861,2026-09-21 10:59:05,Métro Mont-Royal,Parc Jarry,24,1
+501862,2026-09-21 11:00:15,Métro Berri-UQAM,Rue Saint-Denis,11,0
+501863,2026-09-21 11:00:16,Université McGill,Parc La Fontaine,10,1
+501864,2026-09-21 11:05:23,Métro Mont-Royal,Métro Atwater,9,0
+501865,2026-09-21 11:07:42,Rue Saint-Denis,Métro Atwater,3,0
+501866,2026-09-21 11:14:28,Métro Mont-Royal,Marché Jean-Talon,13,0
+501867,2026-09-21 11:16:37,Métro Atwater,Marché Jean-Talon,10,0
+501868,2026-09-21 11:18:16,Métro Berri-UQAM,Vieux-Port,9,1
+501869,2026-09-21 11:19:02,Métro Mont-Royal,Parc La Fontaine,14,0
+501870,2026-09-21 11:28:14,Université McGill,Canal de Lachine,15,1
+501871,2026-09-21 11:31:23,Métro Berri-UQAM,Marché Jean-Talon,14,0
+501872,2026-09-21 11:32:18,Métro Mont-Royal,Canal de Lachine,19,0
+501873,2026-09-21 11:35:39,Marché Jean-Talon,Métro Berri-UQAM,13,0
+501874,2026-09-21 11:46:44,Métro Berri-UQAM,Métro Mont-Royal,13,1
+501875,2026-09-21 11:52:05,Université McGill,Vieux-Port,7,1
+501876,2026-09-21 11:55:08,Parc La Fontaine,Marché Jean-Talon,3,1
+501877,2026-09-21 12:00:19,Métro Berri-UQAM,Métro Mont-Royal,11,0
+501878,2026-09-21 12:04:29,Université McGill,Métro Atwater,13,1
+501879,2026-09-21 12:06:03,Marché Jean-Talon,Université McGill,10,1
+501880,2026-09-21 12:16:14,Métro Berri-UQAM,Métro Atwater,13,1
+501881,2026-09-21 12:26:17,Métro Mont-Royal,Marché Jean-Talon,21,1
+501882,2026-09-21 12:29:00,Marché Jean-Talon,Vieux-Port,10,0
+501883,2026-09-21 12:38:46,Marché Jean-Talon,Métro Atwater,10,0
+501884,2026-09-21 12:43:42,Université McGill,Métro Berri-UQAM,13,0
+501885,2026-09-21 12:55:16,Métro Atwater,Université McGill,14,1
+501886,2026-09-21 12:57:10,Parc La Fontaine,Rue Saint-Denis,17,0
+501887,2026-09-21 13:06:45,Parc La Fontaine,Marché Jean-Talon,17,1
+501888,2026-09-21 13:07:14,Vieux-Port,Rue Saint-Denis,20,0
+501889,2026-09-21 13:11:31,Rue Saint-Denis,Métro Atwater,25,0
+501890,2026-09-21 13:22:10,Parc Jarry,Vieux-Port,6,0
+501891,2026-09-21 13:25:01,Métro Mont-Royal,Vieux-Port,17,0
+501892,2026-09-21 13:30:03,Parc Jarry,Canal de Lachine,14,1
+501893,2026-09-21 13:30:13,Métro Berri-UQAM,Université McGill,12,1
+501894,2026-09-21 13:33:06,Parc La Fontaine,Université McGill,19,0
+501895,2026-09-21 13:36:40,Rue Saint-Denis,Canal de Lachine,19,0
+501896,2026-09-21 13:40:02,Vieux-Port,Marché Jean-Talon,3,1
+501897,2026-09-21 13:50:17,Métro Mont-Royal,Université McGill,21,0
+501898,2026-09-21 13:57:01,Métro Berri-UQAM,Métro Atwater,18,1
+501899,2026-09-21 13:59:55,Marché Jean-Talon,Métro Berri-UQAM,14,1
+501900,2026-09-21 14:01:07,Métro Mont-Royal,Vieux-Port,5,1
+501901,2026-09-21 14:03:53,Métro Atwater,Canal de Lachine,17,0
+501902,2026-09-21 14:04:32,Métro Berri-UQAM,Marché Jean-Talon,17,1
+501903,2026-09-21 14:04:37,Métro Berri-UQAM,Parc Jarry,5,0
+501904,2026-09-21 14:04:41,Parc La Fontaine,Rue Saint-Denis,3,0
+501905,2026-09-21 14:06:19,Marché Jean-Talon,Université McGill,10,0
+501906,2026-09-21 14:09:42,Métro Mont-Royal,Université McGill,20,0
+501907,2026-09-21 14:11:04,Métro Mont-Royal,Vieux-Port,11,0
+501908,2026-09-21 14:13:30,Parc La Fontaine,Métro Mont-Royal,16,0
+501909,2026-09-21 14:17:24,Métro Atwater,Parc Jarry,5,0
+501910,2026-09-21 14:22:44,Métro Atwater,Université McGill,16,0
+501911,2026-09-21 14:31:08,Vieux-Port,Rue Saint-Denis,16,0
+501912,2026-09-21 14:31:13,Marché Jean-Talon,Métro Atwater,13,0
+501913,2026-09-21 14:32:19,Métro Mont-Royal,Vieux-Port,9,1
+501914,2026-09-21 14:32:41,Parc La Fontaine,Parc Jarry,14,0
+501915,2026-09-21 14:32:50,Métro Mont-Royal,Parc La Fontaine,5,0
+501916,2026-09-21 14:35:58,Vieux-Port,Marché Jean-Talon,10,1
+501917,2026-09-21 14:36:30,Parc Jarry,Métro Atwater,14,1
+501918,2026-09-21 14:36:48,Métro Mont-Royal,Parc Jarry,14,1
+501919,2026-09-21 14:38:06,Métro Mont-Royal,Métro Berri-UQAM,4,0
+501920,2026-09-21 14:39:34,Rue Saint-Denis,Canal de Lachine,13,1
+501921,2026-09-21 14:46:03,Université McGill,Métro Atwater,10,0
+501922,2026-09-21 14:47:44,Rue Saint-Denis,Université McGill,15,0
+501923,2026-09-21 14:52:24,Métro Mont-Royal,Vieux-Port,7,0
+501924,2026-09-21 15:04:20,Métro Mont-Royal,Marché Jean-Talon,14,1
+501925,2026-09-21 15:05:08,Métro Mont-Royal,Métro Berri-UQAM,14,1
+501926,2026-09-21 15:05:50,Rue Saint-Denis,Parc La Fontaine,7,1
+501927,2026-09-21 15:07:19,Parc La Fontaine,Canal de Lachine,9,1
+501928,2026-09-21 15:10:12,Canal de Lachine,Métro Atwater,9,1
+501929,2026-09-21 15:19:05,Rue Saint-Denis,Métro Mont-Royal,21,0
+501930,2026-09-21 15:22:01,Parc La Fontaine,Marché Jean-Talon,10,0
+501931,2026-09-21 15:22:10,Université McGill,Parc La Fontaine,14,1
+501932,2026-09-21 15:24:37,Métro Mont-Royal,Canal de Lachine,10,0
+501933,2026-09-21 15:36:39,Université McGill,Parc Jarry,16,0
+501934,2026-09-21 15:43:50,Parc Jarry,Métro Atwater,10,1
+501935,2026-09-21 15:48:41,Parc Jarry,Métro Berri-UQAM,15,1
+501936,2026-09-21 15:52:36,Vieux-Port,Métro Mont-Royal,9,0
+501937,2026-09-21 15:54:08,Métro Mont-Royal,Parc Jarry,14,0
+501938,2026-09-21 15:55:55,Canal de Lachine,Marché Jean-Talon,13,0
+501939,2026-09-21 15:56:34,Vieux-Port,Métro Atwater,19,1
+501940,2026-09-21 15:59:24,Métro Atwater,Métro Mont-Royal,17,0
+501941,2026-09-21 16:08:13,Vieux-Port,Rue Saint-Denis,21,0
+501942,2026-09-21 16:12:26,Vieux-Port,Métro Berri-UQAM,20,0
+501943,2026-09-21 16:14:17,Parc La Fontaine,Université McGill,10,1
+501944,2026-09-21 16:21:07,Métro Berri-UQAM,Parc La Fontaine,8,1
+501945,2026-09-21 16:21:08,Canal de Lachine,Rue Saint-Denis,14,0
+501946,2026-09-21 16:23:47,Métro Berri-UQAM,Canal de Lachine,9,0
+501947,2026-09-21 16:27:18,Métro Berri-UQAM,Métro Mont-Royal,6,0
+501948,2026-09-21 16:28:18,Métro Berri-UQAM,Marché Jean-Talon,14,0
+501949,2026-09-21 16:29:35,Métro Mont-Royal,Parc Jarry,11,0
+501950,2026-09-21 16:43:00,Parc La Fontaine,Canal de Lachine,5,0
+501951,2026-09-21 16:44:34,Parc Jarry,Métro Berri-UQAM,17,0
+501952,2026-09-21 16:49:06,Métro Berri-UQAM,Parc La Fontaine,11,1
+501953,2026-09-21 16:53:35,Parc Jarry,Métro Mont-Royal,3,0
+501954,2026-09-21 16:55:34,Métro Mont-Royal,Rue Saint-Denis,16,0
+501955,2026-09-21 16:56:55,Canal de Lachine,Marché Jean-Talon,18,0
+501956,2026-09-21 16:58:48,Parc La Fontaine,Marché Jean-Talon,14,0
+501957,2026-09-21 17:18:35,Rue Saint-Denis,Métro Berri-UQAM,6,0
+501958,2026-09-21 17:18:40,Métro Berri-UQAM,Marché Jean-Talon,16,0
+501959,2026-09-21 17:25:03,Parc Jarry,Métro Mont-Royal,9,1
+501960,2026-09-21 17:28:32,Métro Atwater,Rue Saint-Denis,13,1
+501961,2026-09-21 17:31:32,Métro Berri-UQAM,Marché Jean-Talon,8,0
+501962,2026-09-21 17:36:50,Marché Jean-Talon,Rue Saint-Denis,11,1
+501963,2026-09-21 17:39:02,Université McGill,Canal de Lachine,12,0
+501964,2026-09-21 17:41:03,Métro Mont-Royal,Parc Jarry,14,1
+501965,2026-09-21 17:45:27,Vieux-Port,Canal de Lachine,11,1
+501966,2026-09-21 17:48:11,Canal de Lachine,Rue Saint-Denis,27,1
+501967,2026-09-21 17:55:06,Métro Atwater,Vieux-Port,4,0
+501968,2026-09-21 17:55:36,Marché Jean-Talon,Métro Mont-Royal,9,1
+501969,2026-09-21 17:58:13,Rue Saint-Denis,Métro Atwater,7,0
+501970,2026-09-21 18:04:09,Vieux-Port,Métro Atwater,16,0
+501971,2026-09-21 18:18:50,Marché Jean-Talon,Parc La Fontaine,16,0
+501972,2026-09-21 18:19:41,Université McGill,Métro Atwater,13,1
+501973,2026-09-21 18:24:36,Rue Saint-Denis,Métro Berri-UQAM,15,0
+501974,2026-09-21 18:25:41,Vieux-Port,Parc Jarry,17,1
+501975,2026-09-21 18:28:50,Canal de Lachine,Marché Jean-Talon,3,0
+501976,2026-09-21 18:29:10,Parc Jarry,Parc La Fontaine,20,0
+501977,2026-09-21 18:29:17,Canal de Lachine,Métro Mont-Royal,14,0
+501978,2026-09-21 18:48:17,Parc La Fontaine,Marché Jean-Talon,10,0
+501979,2026-09-21 18:52:58,Métro Atwater,Canal de Lachine,13,0
+501980,2026-09-21 18:53:57,Métro Mont-Royal,Parc Jarry,8,0
+501981,2026-09-21 18:59:37,Parc La Fontaine,Parc Jarry,3,0
+501982,2026-09-21 19:00:38,Marché Jean-Talon,Métro Atwater,26,1
+501983,2026-09-21 19:05:24,Parc La Fontaine,Parc Jarry,18,0
+501984,2026-09-21 19:16:51,Métro Atwater,Métro Mont-Royal,15,0
+501985,2026-09-21 19:18:48,Métro Mont-Royal,Métro Atwater,9,1
+501986,2026-09-21 19:27:11,Parc La Fontaine,Métro Atwater,7,1
+501987,2026-09-21 19:29:26,Canal de Lachine,Université McGill,20,0
+501988,2026-09-21 19:30:04,Parc La Fontaine,Parc Jarry,26,0
+501989,2026-09-21 19:32:09,Métro Berri-UQAM,Parc Jarry,13,0
+501990,2026-09-21 19:33:36,Parc La Fontaine,Vieux-Port,8,0
+501991,2026-09-21 19:36:03,Parc La Fontaine,Canal de Lachine,3,0
+501992,2026-09-21 19:37:41,Métro Mont-Royal,Parc Jarry,12,0
+501993,2026-09-21 19:40:36,Vieux-Port,Métro Atwater,9,0
+501994,2026-09-21 19:51:54,Université McGill,Vieux-Port,6,0
+501995,2026-09-21 19:52:12,Université McGill,Canal de Lachine,12,0
+501996,2026-09-21 20:07:54,Métro Berri-UQAM,Métro Mont-Royal,16,0
+501997,2026-09-21 20:16:08,Université McGill,Parc La Fontaine,14,0
+501998,2026-09-21 20:28:53,Vieux-Port,Université McGill,8,0
+501999,2026-09-21 20:29:25,Marché Jean-Talon,Métro Atwater,14,1
+502000,2026-09-21 20:33:59,Canal de Lachine,Métro Berri-UQAM,3,0
+502001,2026-09-21 20:39:13,Canal de Lachine,Métro Mont-Royal,11,0
+502002,2026-09-21 20:39:19,Métro Mont-Royal,Métro Berri-UQAM,3,1
+502003,2026-09-21 20:44:13,Métro Mont-Royal,Université McGill,3,0
+502004,2026-09-21 20:46:10,Université McGill,Métro Berri-UQAM,9,0
+502005,2026-09-21 20:46:38,Métro Mont-Royal,Métro Berri-UQAM,11,0
+502006,2026-09-21 20:50:30,Métro Mont-Royal,Marché Jean-Talon,10,0
+502007,2026-09-21 20:51:15,Métro Berri-UQAM,Vieux-Port,16,0
+502008,2026-09-21 20:52:08,Métro Mont-Royal,Métro Berri-UQAM,13,0
+502009,2026-09-21 20:53:22,Parc La Fontaine,Université McGill,9,1
+502010,2026-09-21 20:54:15,Marché Jean-Talon,Vieux-Port,9,1
+502011,2026-09-21 20:57:29,Vieux-Port,Métro Atwater,3,1
+502012,2026-09-21 20:58:26,Université McGill,Marché Jean-Talon,12,1
+502013,2026-09-21 21:00:44,Métro Berri-UQAM,Parc La Fontaine,8,0
+502014,2026-09-21 21:01:56,Marché Jean-Talon,Rue Saint-Denis,13,1
+502015,2026-09-21 21:08:08,Métro Berri-UQAM,Université McGill,11,0
+502016,2026-09-21 21:11:10,Métro Berri-UQAM,Rue Saint-Denis,25,0
+502017,2026-09-21 21:16:03,Vieux-Port,Métro Berri-UQAM,15,0
+502018,2026-09-21 21:23:00,Université McGill,Marché Jean-Talon,16,0
+502019,2026-09-21 21:26:14,Métro Mont-Royal,Marché Jean-Talon,10,1
+502020,2026-09-21 21:30:06,Parc La Fontaine,Métro Atwater,4,0
+502021,2026-09-21 21:30:28,Vieux-Port,Parc Jarry,8,0
+502022,2026-09-21 21:31:53,Métro Berri-UQAM,Université McGill,4,0
+502023,2026-09-21 21:35:10,Métro Berri-UQAM,Vieux-Port,8,1
+502024,2026-09-21 21:38:29,Métro Berri-UQAM,Rue Saint-Denis,18,0
+502025,2026-09-21 21:41:40,Vieux-Port,Université McGill,3,1
+502026,2026-09-21 21:49:27,Métro Berri-UQAM,Rue Saint-Denis,16,0
+502027,2026-09-21 21:56:46,Métro Mont-Royal,Canal de Lachine,8,0
+502028,2026-09-21 22:08:14,Métro Berri-UQAM,Canal de Lachine,18,0
+502029,2026-09-21 22:08:54,Vieux-Port,Métro Mont-Royal,21,1
+502030,2026-09-21 22:09:57,Parc Jarry,Parc La Fontaine,4,0
+502031,2026-09-21 22:19:29,Métro Berri-UQAM,Métro Atwater,13,1
+502032,2026-09-21 22:20:41,Marché Jean-Talon,Parc Jarry,13,0
+502033,2026-09-21 22:27:32,Marché Jean-Talon,Université McGill,7,0
+502034,2026-09-21 22:35:19,Vieux-Port,Parc Jarry,13,1
+502035,2026-09-21 22:41:00,Rue Saint-Denis,Métro Berri-UQAM,13,1
+502036,2026-09-21 22:45:35,Métro Mont-Royal,Marché Jean-Talon,19,0
+502037,2026-09-21 22:47:04,Métro Berri-UQAM,Parc La Fontaine,13,0
+502038,2026-09-21 22:49:04,Métro Atwater,Métro Berri-UQAM,13,0
+502039,2026-09-21 22:51:49,Université McGill,Rue Saint-Denis,18,1
+502040,2026-09-21 22:52:52,Parc La Fontaine,Université McGill,19,0
+502041,2026-09-21 22:54:59,Vieux-Port,Canal de Lachine,4,0
+502042,2026-09-21 22:56:55,Métro Berri-UQAM,Canal de Lachine,6,0
+502043,2026-09-21 23:01:31,Vieux-Port,Métro Berri-UQAM,11,0
+502044,2026-09-21 23:01:31,Université McGill,Rue Saint-Denis,12,1
+502045,2026-09-21 23:11:08,Métro Mont-Royal,Marché Jean-Talon,3,0
+502046,2026-09-21 23:12:00,Parc Jarry,Université McGill,9,0
+502047,2026-09-21 23:14:50,Université McGill,Marché Jean-Talon,16,0
+502048,2026-09-21 23:20:15,Parc Jarry,Parc La Fontaine,10,1
+502049,2026-09-21 23:24:19,Métro Atwater,Métro Mont-Royal,8,0
+502050,2026-09-21 23:27:36,Parc La Fontaine,Métro Atwater,6,1
+502051,2026-09-22 06:04:46,Canal de Lachine,Université McGill,6,1
+502052,2026-09-22 06:12:50,Marché Jean-Talon,Métro Atwater,9,0
+502053,2026-09-22 06:21:15,Métro Mont-Royal,Rue Saint-Denis,11,1
+502054,2026-09-22 06:23:05,Vieux-Port,Rue Saint-Denis,13,0
+502055,2026-09-22 06:24:42,Parc La Fontaine,Métro Berri-UQAM,8,0
+502056,2026-09-22 06:28:38,Canal de Lachine,Université McGill,11,1
+502057,2026-09-22 06:33:39,Parc La Fontaine,Marché Jean-Talon,5,0
+502058,2026-09-22 06:34:36,Rue Saint-Denis,Marché Jean-Talon,14,0
+502059,2026-09-22 06:34:48,Métro Berri-UQAM,Université McGill,19,0
+502060,2026-09-22 06:35:19,Université McGill,Métro Berri-UQAM,10,1
+502061,2026-09-22 06:38:32,Canal de Lachine,Université McGill,17,0
+502062,2026-09-22 06:38:48,Parc La Fontaine,Métro Mont-Royal,15,1
+502063,2026-09-22 06:47:52,Canal de Lachine,Métro Berri-UQAM,13,0
+502064,2026-09-22 06:50:54,Métro Mont-Royal,Vieux-Port,27,1
+502065,2026-09-22 06:52:54,Marché Jean-Talon,Université McGill,3,0
+502066,2026-09-22 06:54:27,Métro Mont-Royal,Université McGill,7,0
+502067,2026-09-22 06:56:12,Métro Berri-UQAM,Canal de Lachine,10,1
+502068,2026-09-22 06:57:50,Rue Saint-Denis,Parc Jarry,13,1
+502069,2026-09-22 07:08:10,Rue Saint-Denis,Parc Jarry,10,0
+502070,2026-09-22 07:08:52,Rue Saint-Denis,Métro Mont-Royal,5,1
+502071,2026-09-22 07:25:23,Métro Berri-UQAM,Métro Atwater,16,0
+502072,2026-09-22 07:27:17,Métro Atwater,Vieux-Port,11,0
+502073,2026-09-22 07:29:22,Métro Atwater,Canal de Lachine,17,0
+502074,2026-09-22 07:40:30,Parc Jarry,Canal de Lachine,5,0
+502075,2026-09-22 07:40:53,Métro Mont-Royal,Université McGill,6,0
+502076,2026-09-22 07:42:28,Métro Mont-Royal,Canal de Lachine,22,0
+502077,2026-09-22 07:51:24,Rue Saint-Denis,Université McGill,11,1
+502078,2026-09-22 07:53:29,Parc Jarry,Canal de Lachine,11,0
+502079,2026-09-22 07:55:02,Marché Jean-Talon,Parc La Fontaine,8,1
+502080,2026-09-22 07:56:08,Vieux-Port,Parc Jarry,15,1
+502081,2026-09-22 07:57:52,Métro Mont-Royal,Rue Saint-Denis,7,0
+502082,2026-09-22 07:58:45,Métro Mont-Royal,Vieux-Port,3,0
+502083,2026-09-22 07:58:59,Vieux-Port,Canal de Lachine,13,1
+502084,2026-09-22 08:00:22,Marché Jean-Talon,Parc La Fontaine,8,0
+502085,2026-09-22 08:00:25,Parc La Fontaine,Vieux-Port,7,0
+502086,2026-09-22 08:02:13,Vieux-Port,Métro Berri-UQAM,27,1
+502087,2026-09-22 08:05:09,Parc Jarry,Canal de Lachine,3,0
+502088,2026-09-22 08:05:19,Métro Mont-Royal,Parc Jarry,10,0
+502089,2026-09-22 08:10:37,Vieux-Port,Rue Saint-Denis,8,0
+502090,2026-09-22 08:14:29,Métro Berri-UQAM,Rue Saint-Denis,14,0
+502091,2026-09-22 08:15:45,Vieux-Port,Parc Jarry,12,0
+502092,2026-09-22 08:16:10,Métro Mont-Royal,Métro Berri-UQAM,10,0
+502093,2026-09-22 08:18:06,Parc Jarry,Rue Saint-Denis,7,0
+502094,2026-09-22 08:24:54,Vieux-Port,Rue Saint-Denis,15,0
+502095,2026-09-22 08:28:27,Vieux-Port,Métro Berri-UQAM,9,1
+502096,2026-09-22 08:34:09,Marché Jean-Talon,Métro Berri-UQAM,15,0
+502097,2026-09-22 08:40:13,Vieux-Port,Marché Jean-Talon,19,1
+502098,2026-09-22 08:42:25,Métro Berri-UQAM,Métro Mont-Royal,25,0
+502099,2026-09-22 08:54:01,Métro Mont-Royal,Métro Berri-UQAM,24,1
+502100,2026-09-22 08:55:16,Métro Berri-UQAM,Vieux-Port,20,1
+502101,2026-09-22 08:58:17,Métro Berri-UQAM,Marché Jean-Talon,4,1
+502102,2026-09-22 09:12:18,Vieux-Port,Métro Atwater,7,0
+502103,2026-09-22 09:21:44,Marché Jean-Talon,Rue Saint-Denis,15,1
+502104,2026-09-22 09:22:25,Métro Mont-Royal,Métro Atwater,21,0
+502105,2026-09-22 09:25:49,Métro Berri-UQAM,Parc La Fontaine,15,1
+502106,2026-09-22 09:31:08,Métro Mont-Royal,Canal de Lachine,16,0
+502107,2026-09-22 09:31:51,Métro Berri-UQAM,Métro Mont-Royal,17,1
+502108,2026-09-22 09:32:43,Marché Jean-Talon,Université McGill,12,1
+502109,2026-09-22 09:33:21,Canal de Lachine,Université McGill,25,0
+502110,2026-09-22 09:34:30,Canal de Lachine,Université McGill,11,1
+502111,2026-09-22 09:37:40,Métro Mont-Royal,Métro Berri-UQAM,12,0
+502112,2026-09-22 09:39:14,Parc La Fontaine,Métro Berri-UQAM,20,0
+502113,2026-09-22 09:41:55,Métro Atwater,Vieux-Port,19,1
+502114,2026-09-22 09:52:57,Métro Berri-UQAM,Rue Saint-Denis,10,0
+502115,2026-09-22 09:55:51,Canal de Lachine,Université McGill,13,0
+502116,2026-09-22 09:56:44,Université McGill,Rue Saint-Denis,16,1
+502117,2026-09-22 10:06:28,Vieux-Port,Métro Mont-Royal,14,0
+502118,2026-09-22 10:08:45,Métro Berri-UQAM,Métro Mont-Royal,18,0
+502119,2026-09-22 10:13:48,Université McGill,Métro Atwater,9,1
+502120,2026-09-22 10:14:50,Rue Saint-Denis,Métro Berri-UQAM,11,1
+502121,2026-09-22 10:18:03,Parc Jarry,Canal de Lachine,5,0
+502122,2026-09-22 10:23:52,Canal de Lachine,Parc Jarry,14,0
+502123,2026-09-22 10:27:48,Marché Jean-Talon,Métro Mont-Royal,14,0
+502124,2026-09-22 10:49:19,Métro Berri-UQAM,Université McGill,24,0
+502125,2026-09-22 10:59:14,Parc Jarry,Canal de Lachine,20,1
+502126,2026-09-22 11:00:34,Métro Mont-Royal,Métro Atwater,17,0
+502127,2026-09-22 11:06:35,Parc Jarry,Université McGill,3,0
+502128,2026-09-22 11:08:45,Vieux-Port,Métro Mont-Royal,7,0
+502129,2026-09-22 11:12:09,Marché Jean-Talon,Vieux-Port,19,0
+502130,2026-09-22 11:16:36,Rue Saint-Denis,Métro Berri-UQAM,13,0
+502131,2026-09-22 11:17:32,Métro Berri-UQAM,Parc Jarry,9,0
+502132,2026-09-22 11:21:55,Métro Berri-UQAM,Vieux-Port,17,1
+502133,2026-09-22 11:29:56,Rue Saint-Denis,Vieux-Port,7,0
+502134,2026-09-22 11:30:39,Métro Atwater,Rue Saint-Denis,18,1
+502135,2026-09-22 11:33:40,Métro Mont-Royal,Marché Jean-Talon,18,0
+502136,2026-09-22 11:35:07,Canal de Lachine,Rue Saint-Denis,6,1
+502137,2026-09-22 11:38:32,Rue Saint-Denis,Université McGill,7,0
+502138,2026-09-22 11:43:32,Vieux-Port,Parc La Fontaine,5,0
+502139,2026-09-22 11:44:02,Université McGill,Métro Mont-Royal,5,0
+502140,2026-09-22 11:44:46,Métro Mont-Royal,Parc La Fontaine,6,0
+502141,2026-09-22 11:46:09,Métro Berri-UQAM,Métro Atwater,18,0
+502142,2026-09-22 11:47:41,Université McGill,Métro Atwater,16,1
+502143,2026-09-22 11:49:21,Canal de Lachine,Métro Berri-UQAM,13,0
+502144,2026-09-22 11:50:33,Vieux-Port,Métro Berri-UQAM,3,0
+502145,2026-09-22 11:52:49,Métro Mont-Royal,Vieux-Port,11,0
+502146,2026-09-22 11:57:00,Métro Berri-UQAM,Marché Jean-Talon,11,1
+502147,2026-09-22 12:02:04,Parc La Fontaine,Vieux-Port,17,1
+502148,2026-09-22 12:09:21,Métro Atwater,Canal de Lachine,17,0
+502149,2026-09-22 12:14:19,Rue Saint-Denis,Métro Mont-Royal,7,0
+502150,2026-09-22 12:16:40,Marché Jean-Talon,Métro Berri-UQAM,15,1
+502151,2026-09-22 12:17:52,Canal de Lachine,Rue Saint-Denis,16,1
+502152,2026-09-22 12:20:18,Parc La Fontaine,Université McGill,18,0
+502153,2026-09-22 12:26:57,Parc La Fontaine,Vieux-Port,19,1
+502154,2026-09-22 12:28:16,Métro Mont-Royal,Université McGill,14,1
+502155,2026-09-22 12:28:39,Marché Jean-Talon,Métro Atwater,12,1
+502156,2026-09-22 12:30:20,Métro Atwater,Canal de Lachine,11,0
+502157,2026-09-22 12:32:07,Vieux-Port,Canal de Lachine,19,0
+502158,2026-09-22 12:35:19,Métro Atwater,Canal de Lachine,20,0
+502159,2026-09-22 12:37:19,Université McGill,Métro Berri-UQAM,13,0
+502160,2026-09-22 12:38:26,Métro Berri-UQAM,Rue Saint-Denis,11,1
+502161,2026-09-22 12:38:34,Université McGill,Rue Saint-Denis,16,1
+502162,2026-09-22 12:43:33,Rue Saint-Denis,Université McGill,14,0
+502163,2026-09-22 12:51:13,Vieux-Port,Marché Jean-Talon,8,1
+502164,2026-09-22 12:51:20,Vieux-Port,Parc Jarry,19,1
+502165,2026-09-22 12:54:04,Métro Berri-UQAM,Vieux-Port,26,1
+502166,2026-09-22 13:01:14,Métro Berri-UQAM,Métro Atwater,14,0
+502167,2026-09-22 13:05:12,Métro Berri-UQAM,Rue Saint-Denis,22,1
+502168,2026-09-22 13:06:51,Métro Atwater,Métro Berri-UQAM,9,0
+502169,2026-09-22 13:08:34,Vieux-Port,Métro Berri-UQAM,11,1
+502170,2026-09-22 13:09:16,Métro Mont-Royal,Université McGill,22,1
+502171,2026-09-22 13:09:43,Marché Jean-Talon,Université McGill,11,1
+502172,2026-09-22 13:10:44,Université McGill,Métro Mont-Royal,15,1
+502173,2026-09-22 13:19:21,Rue Saint-Denis,Parc Jarry,18,0
+502174,2026-09-22 13:21:57,Métro Mont-Royal,Vieux-Port,10,1
+502175,2026-09-22 13:29:41,Métro Berri-UQAM,Parc Jarry,7,0
+502176,2026-09-22 13:37:35,Parc La Fontaine,Marché Jean-Talon,15,1
+502177,2026-09-22 13:41:12,Rue Saint-Denis,Métro Mont-Royal,10,0
+502178,2026-09-22 13:42:23,Métro Berri-UQAM,Marché Jean-Talon,14,0
+502179,2026-09-22 13:46:28,Métro Berri-UQAM,Métro Mont-Royal,16,1
+502180,2026-09-22 13:51:21,Métro Berri-UQAM,Rue Saint-Denis,3,1
+502181,2026-09-22 13:53:08,Canal de Lachine,Métro Berri-UQAM,18,1
+502182,2026-09-22 13:54:11,Métro Berri-UQAM,Parc La Fontaine,18,1
+502183,2026-09-22 13:58:11,Rue Saint-Denis,Métro Atwater,14,0
+502184,2026-09-22 14:07:39,Métro Mont-Royal,Métro Berri-UQAM,14,0
+502185,2026-09-22 14:08:37,Rue Saint-Denis,Vieux-Port,14,1
+502186,2026-09-22 14:11:17,Métro Berri-UQAM,Métro Mont-Royal,15,0
+502187,2026-09-22 14:11:25,Parc La Fontaine,Métro Mont-Royal,12,0
+502188,2026-09-22 14:15:31,Rue Saint-Denis,Parc Jarry,20,1
+502189,2026-09-22 14:16:08,Université McGill,Parc La Fontaine,11,1
+502190,2026-09-22 14:20:53,Université McGill,Métro Atwater,12,0
+502191,2026-09-22 14:24:00,Marché Jean-Talon,Métro Berri-UQAM,11,1
+502192,2026-09-22 14:25:16,Canal de Lachine,Métro Mont-Royal,16,0
+502193,2026-09-22 14:25:22,Parc La Fontaine,Rue Saint-Denis,7,1
+502194,2026-09-22 14:27:45,Rue Saint-Denis,Marché Jean-Talon,15,0
+502195,2026-09-22 14:39:06,Parc Jarry,Métro Berri-UQAM,18,0
+502196,2026-09-22 14:40:31,Métro Berri-UQAM,Parc Jarry,9,1
+502197,2026-09-22 14:41:40,Parc Jarry,Métro Berri-UQAM,17,1
+502198,2026-09-22 14:44:05,Parc Jarry,Vieux-Port,16,0
+502199,2026-09-22 14:47:22,Métro Berri-UQAM,Université McGill,6,1
+502200,2026-09-22 14:48:23,Université McGill,Marché Jean-Talon,21,0
+502201,2026-09-22 14:50:56,Métro Mont-Royal,Métro Atwater,23,0
+502202,2026-09-22 14:52:36,Marché Jean-Talon,Canal de Lachine,13,1
+502203,2026-09-22 14:53:56,Canal de Lachine,Parc La Fontaine,12,1
+502204,2026-09-22 14:53:59,Canal de Lachine,Marché Jean-Talon,17,0
+502205,2026-09-22 14:55:54,Parc La Fontaine,Vieux-Port,7,0
+502206,2026-09-22 14:58:43,Vieux-Port,Métro Berri-UQAM,14,0
+502207,2026-09-22 15:04:43,Université McGill,Parc Jarry,15,0
+502208,2026-09-22 15:04:45,Métro Berri-UQAM,Métro Atwater,6,0
+502209,2026-09-22 15:08:58,Métro Mont-Royal,Vieux-Port,12,0
+502210,2026-09-22 15:09:16,Métro Berri-UQAM,Parc La Fontaine,3,0
+502211,2026-09-22 15:11:12,Métro Mont-Royal,Marché Jean-Talon,17,0
+502212,2026-09-22 15:18:17,Rue Saint-Denis,Parc La Fontaine,6,0
+502213,2026-09-22 15:24:11,Université McGill,Métro Berri-UQAM,15,0
+502214,2026-09-22 15:37:41,Métro Berri-UQAM,Marché Jean-Talon,17,0
+502215,2026-09-22 15:38:36,Métro Mont-Royal,Université McGill,13,0
+502216,2026-09-22 15:45:29,Métro Mont-Royal,Université McGill,5,1
+502217,2026-09-22 15:55:30,Métro Mont-Royal,Parc La Fontaine,13,1
+502218,2026-09-22 15:58:21,Rue Saint-Denis,Métro Atwater,22,0
+502219,2026-09-22 15:59:35,Métro Mont-Royal,Parc Jarry,23,0
+502220,2026-09-22 16:14:45,Rue Saint-Denis,Métro Atwater,13,0
+502221,2026-09-22 16:19:18,Métro Berri-UQAM,Vieux-Port,11,0
+502222,2026-09-22 16:23:07,Parc La Fontaine,Université McGill,20,0
+502223,2026-09-22 16:26:41,Métro Berri-UQAM,Vieux-Port,24,0
+502224,2026-09-22 16:27:41,Université McGill,Rue Saint-Denis,8,0
+502225,2026-09-22 16:28:45,Métro Mont-Royal,Métro Atwater,9,0
+502226,2026-09-22 16:29:45,Université McGill,Vieux-Port,16,1
+502227,2026-09-22 16:32:13,Métro Atwater,Métro Berri-UQAM,15,0
+502228,2026-09-22 16:35:40,Métro Mont-Royal,Université McGill,16,1
+502229,2026-09-22 16:41:15,Vieux-Port,Rue Saint-Denis,12,0
+502230,2026-09-22 16:43:07,Rue Saint-Denis,Métro Berri-UQAM,18,0
+502231,2026-09-22 16:51:26,Vieux-Port,Parc La Fontaine,8,1
+502232,2026-09-22 16:52:19,Canal de Lachine,Métro Berri-UQAM,14,0
+502233,2026-09-22 16:52:51,Métro Atwater,Rue Saint-Denis,13,1
+502234,2026-09-22 16:58:23,Vieux-Port,Parc La Fontaine,17,1
+502235,2026-09-22 17:07:10,Métro Atwater,Parc La Fontaine,27,0
+502236,2026-09-22 17:11:51,Parc La Fontaine,Marché Jean-Talon,3,1
+502237,2026-09-22 17:19:24,Rue Saint-Denis,Parc La Fontaine,8,0
+502238,2026-09-22 17:19:50,Vieux-Port,Métro Berri-UQAM,17,0
+502239,2026-09-22 17:21:23,Canal de Lachine,Université McGill,14,0
+502240,2026-09-22 17:26:16,Métro Berri-UQAM,Parc Jarry,7,0
+502241,2026-09-22 17:27:43,Métro Mont-Royal,Rue Saint-Denis,11,0
+502242,2026-09-22 17:33:11,Canal de Lachine,Université McGill,7,0
+502243,2026-09-22 17:34:03,Canal de Lachine,Université McGill,17,0
+502244,2026-09-22 17:35:40,Université McGill,Vieux-Port,17,1
+502245,2026-09-22 17:38:18,Université McGill,Métro Berri-UQAM,18,0
+502246,2026-09-22 17:38:40,Université McGill,Rue Saint-Denis,18,1
+502247,2026-09-22 17:42:38,Parc La Fontaine,Marché Jean-Talon,19,0
+502248,2026-09-22 17:43:47,Marché Jean-Talon,Université McGill,7,1
+502249,2026-09-22 17:44:56,Métro Mont-Royal,Parc Jarry,8,1
+502250,2026-09-22 17:47:40,Métro Berri-UQAM,Parc Jarry,10,0
+502251,2026-09-22 17:49:00,Métro Mont-Royal,Université McGill,20,0
+502252,2026-09-22 17:54:19,Parc La Fontaine,Parc Jarry,7,1
+502253,2026-09-22 17:55:47,Métro Berri-UQAM,Vieux-Port,7,1
+502254,2026-09-22 17:55:55,Métro Mont-Royal,Métro Berri-UQAM,12,1
+502255,2026-09-22 17:56:11,Métro Berri-UQAM,Université McGill,13,1
+502256,2026-09-22 18:04:05,Université McGill,Parc La Fontaine,18,0
+502257,2026-09-22 18:08:40,Université McGill,Parc La Fontaine,21,1
+502258,2026-09-22 18:12:13,Métro Mont-Royal,Parc Jarry,13,0
+502259,2026-09-22 18:12:16,Métro Berri-UQAM,Rue Saint-Denis,20,1
+502260,2026-09-22 18:14:49,Métro Berri-UQAM,Parc Jarry,3,0
+502261,2026-09-22 18:20:19,Université McGill,Parc Jarry,12,1
+502262,2026-09-22 18:26:27,Métro Mont-Royal,Marché Jean-Talon,10,1
+502263,2026-09-22 18:29:43,Rue Saint-Denis,Vieux-Port,11,0
+502264,2026-09-22 18:31:20,Canal de Lachine,Métro Mont-Royal,24,1
+502265,2026-09-22 18:35:41,Métro Mont-Royal,Canal de Lachine,12,0
+502266,2026-09-22 18:38:14,Canal de Lachine,Rue Saint-Denis,10,0
+502267,2026-09-22 18:41:54,Métro Mont-Royal,Vieux-Port,10,1
+502268,2026-09-22 18:44:33,Canal de Lachine,Vieux-Port,19,0
+502269,2026-09-22 18:44:39,Rue Saint-Denis,Vieux-Port,8,0
+502270,2026-09-22 18:53:45,Marché Jean-Talon,Parc La Fontaine,10,0
+502271,2026-09-22 18:57:34,Marché Jean-Talon,Parc Jarry,5,1
+502272,2026-09-22 18:58:09,Université McGill,Vieux-Port,20,1
+502273,2026-09-22 19:02:50,Métro Berri-UQAM,Métro Atwater,10,1
+502274,2026-09-22 19:07:43,Parc La Fontaine,Canal de Lachine,14,0
+502275,2026-09-22 19:18:50,Métro Berri-UQAM,Vieux-Port,20,0
+502276,2026-09-22 19:18:54,Parc La Fontaine,Université McGill,14,0
+502277,2026-09-22 19:26:50,Rue Saint-Denis,Vieux-Port,18,0
+502278,2026-09-22 19:27:00,Université McGill,Marché Jean-Talon,9,0
+502279,2026-09-22 19:28:07,Université McGill,Parc Jarry,7,1
+502280,2026-09-22 19:29:15,Vieux-Port,Université McGill,6,0
+502281,2026-09-22 19:35:43,Métro Atwater,Université McGill,17,0
+502282,2026-09-22 19:38:12,Rue Saint-Denis,Métro Mont-Royal,9,0
+502283,2026-09-22 19:39:18,Parc Jarry,Parc La Fontaine,9,0
+502284,2026-09-22 19:39:21,Canal de Lachine,Marché Jean-Talon,18,1
+502285,2026-09-22 19:40:32,Canal de Lachine,Vieux-Port,13,0
+502286,2026-09-22 19:44:37,Métro Mont-Royal,Marché Jean-Talon,12,0
+502287,2026-09-22 19:57:18,Métro Berri-UQAM,Parc Jarry,13,0
+502288,2026-09-22 20:01:10,Parc Jarry,Vieux-Port,16,1
+502289,2026-09-22 20:06:02,Métro Berri-UQAM,Marché Jean-Talon,8,1
+502290,2026-09-22 20:14:24,Vieux-Port,Université McGill,19,1
+502291,2026-09-22 20:16:26,Vieux-Port,Parc Jarry,3,0
+502292,2026-09-22 20:25:59,Métro Atwater,Marché Jean-Talon,10,1
+502293,2026-09-22 20:36:46,Université McGill,Métro Berri-UQAM,13,0
+502294,2026-09-22 20:39:31,Métro Mont-Royal,Parc Jarry,14,0
+502295,2026-09-22 20:40:00,Rue Saint-Denis,Vieux-Port,21,0
+502296,2026-09-22 20:43:16,Métro Berri-UQAM,Marché Jean-Talon,9,0
+502297,2026-09-22 20:49:56,Université McGill,Parc Jarry,12,1
+502298,2026-09-22 20:52:32,Marché Jean-Talon,Rue Saint-Denis,21,0
+502299,2026-09-22 20:52:33,Vieux-Port,Université McGill,9,0
+502300,2026-09-22 20:53:32,Canal de Lachine,Parc La Fontaine,10,0
+502301,2026-09-22 20:57:45,Canal de Lachine,Métro Atwater,16,1
+502302,2026-09-22 21:00:09,Métro Berri-UQAM,Parc Jarry,16,0
+502303,2026-09-22 21:03:01,Canal de Lachine,Vieux-Port,14,0
+502304,2026-09-22 21:14:12,Marché Jean-Talon,Université McGill,9,1
+502305,2026-09-22 21:17:07,Métro Mont-Royal,Parc Jarry,6,0
+502306,2026-09-22 21:17:53,Université McGill,Parc Jarry,29,0
+502307,2026-09-22 21:26:59,Métro Berri-UQAM,Canal de Lachine,10,0
+502308,2026-09-22 21:30:17,Rue Saint-Denis,Vieux-Port,20,1
+502309,2026-09-22 21:31:26,Métro Mont-Royal,Parc Jarry,13,0
+502310,2026-09-22 21:32:45,Université McGill,Parc La Fontaine,21,1
+502311,2026-09-22 21:36:19,Université McGill,Métro Atwater,10,1
+502312,2026-09-22 21:38:25,Canal de Lachine,Parc La Fontaine,11,0
+502313,2026-09-22 21:38:32,Parc Jarry,Parc La Fontaine,11,0
+502314,2026-09-22 21:40:50,Métro Mont-Royal,Marché Jean-Talon,12,1
+502315,2026-09-22 21:42:03,Métro Mont-Royal,Rue Saint-Denis,6,1
+502316,2026-09-22 21:46:57,Parc La Fontaine,Métro Atwater,14,0
+502317,2026-09-22 21:51:51,Métro Mont-Royal,Métro Atwater,13,1
+502318,2026-09-22 21:58:11,Université McGill,Parc Jarry,22,0
+502319,2026-09-22 22:00:13,Marché Jean-Talon,Parc Jarry,16,0
+502320,2026-09-22 22:06:18,Université McGill,Marché Jean-Talon,4,1
+502321,2026-09-22 22:19:54,Métro Mont-Royal,Marché Jean-Talon,6,0
+502322,2026-09-22 22:25:32,Métro Berri-UQAM,Université McGill,13,0
+502323,2026-09-22 22:25:48,Vieux-Port,Rue Saint-Denis,23,1
+502324,2026-09-22 22:28:39,Canal de Lachine,Métro Berri-UQAM,16,0
+502325,2026-09-22 22:34:01,Métro Berri-UQAM,Marché Jean-Talon,15,0
+502326,2026-09-22 22:38:53,Parc Jarry,Vieux-Port,17,0
+502327,2026-09-22 22:41:53,Parc La Fontaine,Canal de Lachine,21,1
+502328,2026-09-22 22:44:03,Rue Saint-Denis,Métro Mont-Royal,13,0
+502329,2026-09-22 22:44:30,Université McGill,Canal de Lachine,7,1
+502330,2026-09-22 22:46:30,Métro Berri-UQAM,Canal de Lachine,15,0
+502331,2026-09-22 22:52:21,Vieux-Port,Métro Berri-UQAM,15,0
+502332,2026-09-22 22:52:29,Métro Atwater,Rue Saint-Denis,14,0
+502333,2026-09-22 23:06:46,Parc Jarry,Parc La Fontaine,3,0
+502334,2026-09-22 23:08:51,Métro Berri-UQAM,Rue Saint-Denis,3,1
+502335,2026-09-22 23:14:52,Parc La Fontaine,Métro Mont-Royal,6,0
+502336,2026-09-22 23:18:48,Marché Jean-Talon,Parc Jarry,3,1
+502337,2026-09-22 23:19:09,Métro Atwater,Parc Jarry,20,0
+502338,2026-09-22 23:27:09,Rue Saint-Denis,Parc La Fontaine,23,1
+502339,2026-09-23 06:03:08,Parc Jarry,Métro Berri-UQAM,8,0
+502340,2026-09-23 06:10:08,Université McGill,Parc La Fontaine,14,1
+502341,2026-09-23 06:13:01,Vieux-Port,Canal de Lachine,5,0
+502342,2026-09-23 06:27:12,Métro Atwater,Marché Jean-Talon,17,1
+502343,2026-09-23 06:29:38,Vieux-Port,Métro Mont-Royal,12,0
+502344,2026-09-23 06:41:22,Rue Saint-Denis,Canal de Lachine,12,1
+502345,2026-09-23 06:47:18,Université McGill,Métro Berri-UQAM,11,0
+502346,2026-09-23 06:52:56,Métro Atwater,Métro Mont-Royal,11,1
+502347,2026-09-23 06:57:22,Parc Jarry,Métro Berri-UQAM,15,0
+502348,2026-09-23 06:59:58,Canal de Lachine,Université McGill,14,0
+502349,2026-09-23 07:06:56,Parc La Fontaine,Université McGill,14,0
+502350,2026-09-23 07:12:10,Métro Mont-Royal,Rue Saint-Denis,18,0
+502351,2026-09-23 07:26:32,Parc Jarry,Université McGill,17,0
+502352,2026-09-23 07:58:14,Parc Jarry,Vieux-Port,23,0
+502353,2026-09-23 07:59:09,Métro Berri-UQAM,Rue Saint-Denis,4,0
+502354,2026-09-23 08:05:26,Canal de Lachine,Université McGill,7,1
+502355,2026-09-23 08:33:42,Métro Mont-Royal,Métro Berri-UQAM,18,1
+502356,2026-09-23 08:42:47,Métro Mont-Royal,Université McGill,12,1
+502357,2026-09-23 08:51:23,Métro Atwater,Rue Saint-Denis,16,0
+502358,2026-09-23 08:53:18,Métro Berri-UQAM,Parc La Fontaine,23,1
+502359,2026-09-23 09:01:12,Rue Saint-Denis,Métro Atwater,20,0
+502360,2026-09-23 09:02:49,Marché Jean-Talon,Parc Jarry,18,0
+502361,2026-09-23 09:09:25,Université McGill,Vieux-Port,8,0
+502362,2026-09-23 09:12:44,Université McGill,Métro Atwater,4,0
+502363,2026-09-23 09:22:46,Canal de Lachine,Parc La Fontaine,7,0
+502364,2026-09-23 09:30:37,Rue Saint-Denis,Canal de Lachine,14,0
+502365,2026-09-23 09:40:46,Métro Berri-UQAM,Métro Mont-Royal,14,1
+502366,2026-09-23 09:50:47,Vieux-Port,Métro Berri-UQAM,8,0
+502367,2026-09-23 10:16:42,Parc La Fontaine,Parc Jarry,19,0
+502368,2026-09-23 10:25:42,Parc La Fontaine,Métro Atwater,10,1
+502369,2026-09-23 11:13:45,Rue Saint-Denis,Parc La Fontaine,10,1
+502370,2026-09-23 11:13:56,Parc Jarry,Métro Berri-UQAM,8,0
+502371,2026-09-23 11:18:32,Métro Berri-UQAM,Métro Mont-Royal,13,0
+502372,2026-09-23 11:20:37,Rue Saint-Denis,Parc La Fontaine,14,0
+502373,2026-09-23 11:43:40,Rue Saint-Denis,Métro Mont-Royal,8,0
+502374,2026-09-23 11:46:08,Canal de Lachine,Université McGill,14,0
+502375,2026-09-23 12:00:13,Métro Mont-Royal,Rue Saint-Denis,3,1
+502376,2026-09-23 12:45:44,Vieux-Port,Métro Atwater,12,1
+502377,2026-09-23 12:52:09,Métro Mont-Royal,Université McGill,21,1
+502378,2026-09-23 12:54:06,Canal de Lachine,Métro Mont-Royal,3,0
+502379,2026-09-23 13:08:44,Marché Jean-Talon,Métro Mont-Royal,22,0
+502380,2026-09-23 13:16:39,Marché Jean-Talon,Parc Jarry,15,1
+502381,2026-09-23 13:17:01,Vieux-Port,Métro Berri-UQAM,8,1
+502382,2026-09-23 13:17:49,Métro Mont-Royal,Rue Saint-Denis,15,0
+502383,2026-09-23 13:18:28,Métro Mont-Royal,Rue Saint-Denis,4,1
+502384,2026-09-23 13:24:21,Rue Saint-Denis,Canal de Lachine,3,0
+502385,2026-09-23 13:30:18,Vieux-Port,Rue Saint-Denis,18,0
+502386,2026-09-23 13:32:44,Vieux-Port,Métro Berri-UQAM,21,1
+502387,2026-09-23 13:35:10,Rue Saint-Denis,Métro Berri-UQAM,3,0
+502388,2026-09-23 13:39:12,Parc La Fontaine,Marché Jean-Talon,8,0
+502389,2026-09-23 14:00:41,Vieux-Port,Métro Atwater,10,0
+502390,2026-09-23 14:01:20,Université McGill,Marché Jean-Talon,13,1
+502391,2026-09-23 14:18:33,Vieux-Port,Université McGill,4,0
+502392,2026-09-23 14:19:39,Rue Saint-Denis,Parc Jarry,3,0
+502393,2026-09-23 14:29:13,Vieux-Port,Parc Jarry,6,0
+502394,2026-09-23 14:38:19,Métro Mont-Royal,Rue Saint-Denis,17,0
+502395,2026-09-23 16:19:13,Métro Mont-Royal,Marché Jean-Talon,21,1
+502396,2026-09-23 16:28:56,Canal de Lachine,Métro Mont-Royal,14,0
+502397,2026-09-23 16:43:35,Canal de Lachine,Vieux-Port,14,0
+502398,2026-09-23 16:48:20,Canal de Lachine,Parc Jarry,13,1
+502399,2026-09-23 16:54:03,Métro Mont-Royal,Métro Atwater,14,0
+502400,2026-09-23 17:14:50,Parc Jarry,Rue Saint-Denis,15,1
+502401,2026-09-23 17:15:02,Université McGill,Parc La Fontaine,19,0
+502402,2026-09-23 17:27:30,Vieux-Port,Parc La Fontaine,5,0
+502403,2026-09-23 17:34:39,Métro Atwater,Université McGill,10,0
+502404,2026-09-23 17:50:39,Parc La Fontaine,Métro Berri-UQAM,23,0
+502405,2026-09-23 17:55:54,Métro Atwater,Parc La Fontaine,5,1
+502406,2026-09-23 18:18:22,Métro Mont-Royal,Université McGill,3,0
+502407,2026-09-23 18:20:14,Parc La Fontaine,Rue Saint-Denis,5,0
+502408,2026-09-23 18:21:37,Métro Mont-Royal,Parc Jarry,12,0
+502409,2026-09-23 18:46:09,Marché Jean-Talon,Métro Atwater,19,1
+502410,2026-09-23 18:54:52,Université McGill,Métro Berri-UQAM,16,1
+502411,2026-09-23 18:57:13,Université McGill,Métro Berri-UQAM,16,0
+502412,2026-09-23 19:07:53,Parc La Fontaine,Parc Jarry,16,0
+502413,2026-09-23 19:10:03,Canal de Lachine,Métro Atwater,11,0
+502414,2026-09-23 19:12:31,Parc La Fontaine,Parc Jarry,6,1
+502415,2026-09-23 19:23:19,Métro Berri-UQAM,Canal de Lachine,3,0
+502416,2026-09-23 19:25:42,Métro Atwater,Vieux-Port,16,1
+502417,2026-09-23 19:31:49,Métro Atwater,Métro Berri-UQAM,3,0
+502418,2026-09-23 19:36:27,Université McGill,Rue Saint-Denis,12,1
+502419,2026-09-23 19:42:11,Parc Jarry,Métro Berri-UQAM,3,1
+502420,2026-09-23 20:00:55,Rue Saint-Denis,Métro Mont-Royal,11,0
+502421,2026-09-23 20:13:08,Rue Saint-Denis,Parc Jarry,20,0
+502422,2026-09-23 20:13:12,Université McGill,Métro Mont-Royal,10,0
+502423,2026-09-23 20:23:48,Rue Saint-Denis,Canal de Lachine,20,0
+502424,2026-09-23 20:24:17,Canal de Lachine,Marché Jean-Talon,12,0
+502425,2026-09-23 20:24:41,Métro Berri-UQAM,Vieux-Port,21,0
+502426,2026-09-23 20:37:39,Métro Mont-Royal,Université McGill,18,0
+502427,2026-09-23 20:59:30,Parc La Fontaine,Métro Berri-UQAM,14,1
+502428,2026-09-23 21:12:40,Rue Saint-Denis,Métro Mont-Royal,10,0
+502429,2026-09-23 21:14:21,Rue Saint-Denis,Métro Mont-Royal,17,0
+502430,2026-09-23 21:18:13,Marché Jean-Talon,Parc Jarry,11,0
+502431,2026-09-23 21:20:52,Université McGill,Métro Berri-UQAM,9,0
+502432,2026-09-23 21:38:29,Canal de Lachine,Vieux-Port,8,1
+502433,2026-09-23 22:03:16,Parc La Fontaine,Marché Jean-Talon,20,0
+502434,2026-09-23 22:04:43,Métro Berri-UQAM,Rue Saint-Denis,19,0
+502435,2026-09-23 22:05:43,Rue Saint-Denis,Vieux-Port,16,0
+502436,2026-09-23 22:12:24,Métro Berri-UQAM,Vieux-Port,12,0
+502437,2026-09-23 22:25:33,Parc La Fontaine,Marché Jean-Talon,5,1
+502438,2026-09-23 22:28:29,Parc La Fontaine,Métro Berri-UQAM,9,0
+502439,2026-09-23 22:41:26,Université McGill,Vieux-Port,17,0
+502440,2026-09-23 22:41:32,Métro Berri-UQAM,Parc La Fontaine,10,1
+502441,2026-09-23 22:48:32,Canal de Lachine,Marché Jean-Talon,18,1
+502442,2026-09-23 22:57:23,Marché Jean-Talon,Université McGill,14,0
+502443,2026-09-23 22:58:24,Rue Saint-Denis,Métro Berri-UQAM,12,0
+502444,2026-09-23 23:11:19,Université McGill,Métro Mont-Royal,7,1
+502445,2026-09-24 06:03:33,Métro Berri-UQAM,Canal de Lachine,20,1
+502446,2026-09-24 06:05:42,Marché Jean-Talon,Métro Mont-Royal,3,1
+502447,2026-09-24 06:12:55,Métro Atwater,Vieux-Port,10,0
+502448,2026-09-24 06:13:57,Rue Saint-Denis,Parc La Fontaine,7,0
+502449,2026-09-24 06:18:28,Parc La Fontaine,Marché Jean-Talon,6,0
+502450,2026-09-24 06:20:03,Parc La Fontaine,Rue Saint-Denis,15,0
+502451,2026-09-24 06:24:23,Vieux-Port,Métro Mont-Royal,12,0
+502452,2026-09-24 06:24:46,Métro Mont-Royal,Université McGill,16,0
+502453,2026-09-24 06:30:25,Marché Jean-Talon,Métro Berri-UQAM,17,0
+502454,2026-09-24 06:36:19,Canal de Lachine,Métro Atwater,9,1
+502455,2026-09-24 06:58:25,Parc La Fontaine,Rue Saint-Denis,15,1
+502456,2026-09-24 07:00:27,Métro Berri-UQAM,Vieux-Port,3,0
+502457,2026-09-24 07:00:51,Métro Berri-UQAM,Parc La Fontaine,3,1
+502458,2026-09-24 07:04:02,Marché Jean-Talon,Métro Berri-UQAM,18,0
+502459,2026-09-24 07:04:58,Métro Mont-Royal,Vieux-Port,8,1
+502460,2026-09-24 07:07:08,Université McGill,Métro Mont-Royal,28,1
+502461,2026-09-24 07:07:41,Parc La Fontaine,Métro Berri-UQAM,9,1
+502462,2026-09-24 07:11:12,Canal de Lachine,Parc Jarry,18,1
+502463,2026-09-24 07:20:11,Parc La Fontaine,Vieux-Port,12,1
+502464,2026-09-24 07:25:28,Parc La Fontaine,Rue Saint-Denis,10,1
+502465,2026-09-24 07:26:21,Parc La Fontaine,Vieux-Port,10,1
+502466,2026-09-24 07:31:29,Canal de Lachine,Métro Atwater,20,1
+502467,2026-09-24 07:40:16,Métro Berri-UQAM,Métro Mont-Royal,22,0
+502468,2026-09-24 07:44:01,Rue Saint-Denis,Parc Jarry,14,0
+502469,2026-09-24 07:44:26,Métro Mont-Royal,Université McGill,11,1
+502470,2026-09-24 07:49:22,Métro Berri-UQAM,Canal de Lachine,8,0
+502471,2026-09-24 07:52:57,Métro Mont-Royal,Parc Jarry,3,1
+502472,2026-09-24 07:53:12,Métro Mont-Royal,Parc La Fontaine,15,0
+502473,2026-09-24 08:08:47,Canal de Lachine,Métro Atwater,12,1
+502474,2026-09-24 08:10:47,Métro Berri-UQAM,Marché Jean-Talon,14,0
+502475,2026-09-24 08:12:38,Université McGill,Métro Atwater,13,1
+502476,2026-09-24 08:13:16,Canal de Lachine,Parc La Fontaine,16,0
+502477,2026-09-24 08:27:39,Canal de Lachine,Vieux-Port,3,1
+502478,2026-09-24 08:28:30,Métro Atwater,Rue Saint-Denis,11,0
+502479,2026-09-24 08:31:25,Parc La Fontaine,Canal de Lachine,17,0
+502480,2026-09-24 08:34:48,Métro Berri-UQAM,Métro Mont-Royal,14,1
+502481,2026-09-24 08:34:51,Parc Jarry,Marché Jean-Talon,17,0
+502482,2026-09-24 08:36:17,Rue Saint-Denis,Vieux-Port,24,0
+502483,2026-09-24 08:51:03,Métro Mont-Royal,Métro Berri-UQAM,10,0
+502484,2026-09-24 08:53:07,Métro Mont-Royal,Canal de Lachine,15,0
+502485,2026-09-24 08:57:36,Parc La Fontaine,Rue Saint-Denis,9,1
+502486,2026-09-24 09:00:02,Métro Berri-UQAM,Vieux-Port,6,0
+502487,2026-09-24 09:00:13,Marché Jean-Talon,Rue Saint-Denis,6,0
+502488,2026-09-24 09:02:49,Parc La Fontaine,Vieux-Port,6,0
+502489,2026-09-24 09:08:29,Marché Jean-Talon,Canal de Lachine,16,1
+502490,2026-09-24 09:08:39,Université McGill,Métro Mont-Royal,22,0
+502491,2026-09-24 09:10:03,Métro Berri-UQAM,Université McGill,11,1
+502492,2026-09-24 09:12:41,Parc La Fontaine,Métro Atwater,10,1
+502493,2026-09-24 09:13:25,Vieux-Port,Métro Berri-UQAM,10,0
+502494,2026-09-24 09:15:54,Parc La Fontaine,Université McGill,7,0
+502495,2026-09-24 09:30:01,Vieux-Port,Métro Mont-Royal,10,0
+502496,2026-09-24 09:39:01,Rue Saint-Denis,Université McGill,21,0
+502497,2026-09-24 09:47:20,Université McGill,Marché Jean-Talon,12,1
+502498,2026-09-24 09:48:36,Marché Jean-Talon,Métro Atwater,3,1
+502499,2026-09-24 09:52:15,Vieux-Port,Parc Jarry,11,0
+502500,2026-09-24 09:59:50,Parc La Fontaine,Parc Jarry,9,0
+502501,2026-09-24 10:00:10,Canal de Lachine,Parc Jarry,6,1
+502502,2026-09-24 10:01:21,Métro Mont-Royal,Marché Jean-Talon,11,1
+502503,2026-09-24 10:01:30,Rue Saint-Denis,Université McGill,10,0
+502504,2026-09-24 10:02:43,Métro Atwater,Métro Berri-UQAM,15,0
+502505,2026-09-24 10:04:47,Parc La Fontaine,Université McGill,6,0
+502506,2026-09-24 10:08:14,Parc Jarry,Parc La Fontaine,8,0
+502507,2026-09-24 10:08:19,Rue Saint-Denis,Parc Jarry,8,0
+502508,2026-09-24 10:12:20,Université McGill,Métro Atwater,15,1
+502509,2026-09-24 10:26:11,Rue Saint-Denis,Université McGill,12,0
+502510,2026-09-24 10:30:49,Métro Berri-UQAM,Parc Jarry,3,1
+502511,2026-09-24 10:31:44,Parc La Fontaine,Rue Saint-Denis,4,0
+502512,2026-09-24 10:34:07,Métro Berri-UQAM,Métro Mont-Royal,4,0
+502513,2026-09-24 10:34:15,Métro Mont-Royal,Métro Atwater,13,0
+502514,2026-09-24 10:35:44,Parc La Fontaine,Métro Mont-Royal,18,1
+502515,2026-09-24 10:35:47,Marché Jean-Talon,Université McGill,14,1
+502516,2026-09-24 10:38:00,Vieux-Port,Métro Berri-UQAM,6,1
+502517,2026-09-24 10:38:07,Vieux-Port,Rue Saint-Denis,16,0
+502518,2026-09-24 10:44:26,Université McGill,Rue Saint-Denis,24,0
+502519,2026-09-24 10:52:29,Vieux-Port,Canal de Lachine,7,0
+502520,2026-09-24 11:00:12,Université McGill,Parc La Fontaine,16,0
+502521,2026-09-24 11:02:46,Métro Mont-Royal,Rue Saint-Denis,17,0
+502522,2026-09-24 11:06:13,Marché Jean-Talon,Parc La Fontaine,26,0
+502523,2026-09-24 11:09:49,Métro Atwater,Parc Jarry,11,0
+502524,2026-09-24 11:14:22,Marché Jean-Talon,Parc Jarry,14,0
+502525,2026-09-24 11:21:26,Parc La Fontaine,Canal de Lachine,12,1
+502526,2026-09-24 11:21:54,Marché Jean-Talon,Métro Berri-UQAM,3,0
+502527,2026-09-24 11:23:52,Rue Saint-Denis,Marché Jean-Talon,16,1
+502528,2026-09-24 11:26:13,Canal de Lachine,Métro Atwater,10,0
+502529,2026-09-24 11:39:39,Rue Saint-Denis,Marché Jean-Talon,15,0
+502530,2026-09-24 11:41:58,Canal de Lachine,Parc Jarry,13,1
+502531,2026-09-24 11:44:31,Métro Atwater,Métro Berri-UQAM,12,0
+502532,2026-09-24 11:50:02,Métro Mont-Royal,Vieux-Port,9,1
+502533,2026-09-24 11:53:11,Marché Jean-Talon,Métro Atwater,11,0
+502534,2026-09-24 11:59:53,Université McGill,Métro Berri-UQAM,14,0
+502535,2026-09-24 12:08:53,Parc Jarry,Parc La Fontaine,15,0
+502536,2026-09-24 12:17:53,Canal de Lachine,Métro Mont-Royal,8,0
+502537,2026-09-24 12:18:25,Métro Berri-UQAM,Vieux-Port,9,1
+502538,2026-09-24 12:25:15,Parc La Fontaine,Vieux-Port,15,0
+502539,2026-09-24 12:33:44,Métro Atwater,Parc La Fontaine,20,0
+502540,2026-09-24 12:37:39,Vieux-Port,Parc Jarry,9,0
+502541,2026-09-24 12:40:43,Métro Atwater,Rue Saint-Denis,14,1
+502542,2026-09-24 12:41:15,Parc La Fontaine,Métro Berri-UQAM,29,0
+502543,2026-09-24 12:42:46,Vieux-Port,Métro Atwater,6,1
+502544,2026-09-24 12:49:15,Parc La Fontaine,Métro Berri-UQAM,14,0
+502545,2026-09-24 12:56:28,Métro Berri-UQAM,Parc Jarry,9,0
+502546,2026-09-24 12:56:37,Parc Jarry,Canal de Lachine,20,1
+502547,2026-09-24 12:59:08,Rue Saint-Denis,Métro Atwater,8,0
+502548,2026-09-24 13:02:52,Vieux-Port,Rue Saint-Denis,3,0
+502549,2026-09-24 13:04:16,Métro Atwater,Rue Saint-Denis,18,0
+502550,2026-09-24 13:07:00,Métro Atwater,Parc La Fontaine,23,0
+502551,2026-09-24 13:11:21,Rue Saint-Denis,Parc La Fontaine,20,0
+502552,2026-09-24 13:14:07,Métro Berri-UQAM,Vieux-Port,17,0
+502553,2026-09-24 13:16:10,Parc La Fontaine,Université McGill,20,1
+502554,2026-09-24 13:19:21,Parc La Fontaine,Parc Jarry,20,0
+502555,2026-09-24 13:20:36,Métro Atwater,Métro Berri-UQAM,15,0
+502556,2026-09-24 13:31:04,Métro Mont-Royal,Métro Atwater,4,1
+502557,2026-09-24 13:31:23,Université McGill,Parc Jarry,15,0
+502558,2026-09-24 13:32:56,Métro Berri-UQAM,Métro Mont-Royal,16,0
+502559,2026-09-24 13:34:37,Parc Jarry,Métro Atwater,10,1
+502560,2026-09-24 13:46:06,Rue Saint-Denis,Métro Berri-UQAM,3,0
+502561,2026-09-24 13:46:59,Métro Mont-Royal,Marché Jean-Talon,10,0
+502562,2026-09-24 13:48:40,Métro Mont-Royal,Rue Saint-Denis,23,0
+502563,2026-09-24 13:49:49,Parc La Fontaine,Marché Jean-Talon,17,1
+502564,2026-09-24 13:56:05,Marché Jean-Talon,Métro Atwater,13,0
+502565,2026-09-24 13:57:25,Marché Jean-Talon,Parc Jarry,6,1
+502566,2026-09-24 13:57:25,Vieux-Port,Marché Jean-Talon,5,0
+502567,2026-09-24 13:59:30,Métro Mont-Royal,Parc Jarry,26,0
+502568,2026-09-24 13:59:34,Rue Saint-Denis,Métro Atwater,7,0
+502569,2026-09-24 14:00:41,Marché Jean-Talon,Métro Berri-UQAM,12,0
+502570,2026-09-24 14:04:18,Parc La Fontaine,Métro Mont-Royal,17,0
+502571,2026-09-24 14:04:20,Marché Jean-Talon,Canal de Lachine,8,0
+502572,2026-09-24 14:12:31,Parc La Fontaine,Vieux-Port,4,0
+502573,2026-09-24 14:13:02,Parc La Fontaine,Parc Jarry,24,0
+502574,2026-09-24 14:19:24,Métro Mont-Royal,Métro Atwater,14,0
+502575,2026-09-24 14:24:47,Métro Mont-Royal,Vieux-Port,18,0
+502576,2026-09-24 14:28:10,Métro Berri-UQAM,Marché Jean-Talon,6,1
+502577,2026-09-24 14:34:30,Canal de Lachine,Université McGill,23,1
+502578,2026-09-24 14:41:07,Rue Saint-Denis,Canal de Lachine,12,1
+502579,2026-09-24 14:44:26,Université McGill,Parc Jarry,10,0
+502580,2026-09-24 14:45:04,Rue Saint-Denis,Marché Jean-Talon,10,0
+502581,2026-09-24 14:46:52,Parc Jarry,Métro Berri-UQAM,5,1
+502582,2026-09-24 14:51:58,Parc La Fontaine,Métro Mont-Royal,23,0
+502583,2026-09-24 14:52:09,Université McGill,Canal de Lachine,14,1
+502584,2026-09-24 14:56:26,Parc La Fontaine,Métro Atwater,11,0
+502585,2026-09-24 14:56:41,Parc Jarry,Métro Atwater,20,0
+502586,2026-09-24 15:00:32,Vieux-Port,Université McGill,23,1
+502587,2026-09-24 15:19:19,Rue Saint-Denis,Université McGill,9,0
+502588,2026-09-24 15:19:20,Métro Atwater,Canal de Lachine,6,0
+502589,2026-09-24 15:20:24,Parc Jarry,Canal de Lachine,9,0
+502590,2026-09-24 15:20:45,Métro Mont-Royal,Parc La Fontaine,16,1
+502591,2026-09-24 15:25:29,Rue Saint-Denis,Parc Jarry,9,1
+502592,2026-09-24 15:27:56,Parc La Fontaine,Parc Jarry,22,0
+502593,2026-09-24 15:28:20,Université McGill,Rue Saint-Denis,15,0
+502594,2026-09-24 15:31:14,Université McGill,Canal de Lachine,23,1
+502595,2026-09-24 15:36:55,Marché Jean-Talon,Parc La Fontaine,22,1
+502596,2026-09-24 15:43:50,Métro Berri-UQAM,Canal de Lachine,3,1
+502597,2026-09-24 15:44:08,Parc La Fontaine,Métro Berri-UQAM,18,0
+502598,2026-09-24 15:49:04,Métro Atwater,Parc La Fontaine,3,1
+502599,2026-09-24 15:53:06,Vieux-Port,Marché Jean-Talon,10,1
+502600,2026-09-24 15:55:57,Marché Jean-Talon,Rue Saint-Denis,10,0
+502601,2026-09-24 16:02:07,Métro Berri-UQAM,Rue Saint-Denis,9,1
+502602,2026-09-24 16:14:00,Parc La Fontaine,Rue Saint-Denis,11,0
+502603,2026-09-24 16:23:32,Parc La Fontaine,Parc Jarry,22,0
+502604,2026-09-24 16:48:14,Canal de Lachine,Marché Jean-Talon,21,0
+502605,2026-09-24 16:49:47,Vieux-Port,Métro Mont-Royal,9,0
+502606,2026-09-24 16:51:51,Parc Jarry,Rue Saint-Denis,15,0
+502607,2026-09-24 17:02:31,Parc La Fontaine,Rue Saint-Denis,3,1
+502608,2026-09-24 17:04:03,Métro Mont-Royal,Canal de Lachine,6,0
+502609,2026-09-24 17:05:45,Métro Mont-Royal,Métro Berri-UQAM,12,0
+502610,2026-09-24 17:11:18,Marché Jean-Talon,Parc Jarry,18,0
+502611,2026-09-24 17:14:49,Canal de Lachine,Parc Jarry,3,0
+502612,2026-09-24 17:15:02,Parc La Fontaine,Métro Atwater,11,1
+502613,2026-09-24 17:17:11,Métro Berri-UQAM,Métro Mont-Royal,10,0
+502614,2026-09-24 17:20:31,Parc La Fontaine,Vieux-Port,18,0
+502615,2026-09-24 17:21:05,Parc La Fontaine,Canal de Lachine,3,0
+502616,2026-09-24 17:21:24,Marché Jean-Talon,Métro Mont-Royal,3,0
+502617,2026-09-24 17:22:54,Parc La Fontaine,Université McGill,13,0
+502618,2026-09-24 17:25:13,Vieux-Port,Métro Mont-Royal,20,0
+502619,2026-09-24 17:27:20,Rue Saint-Denis,Métro Berri-UQAM,9,0
+502620,2026-09-24 17:31:15,Parc La Fontaine,Rue Saint-Denis,13,0
+502621,2026-09-24 17:51:04,Métro Berri-UQAM,Université McGill,21,0
+502622,2026-09-24 17:57:20,Parc La Fontaine,Métro Berri-UQAM,14,0
+502623,2026-09-24 18:05:05,Métro Mont-Royal,Vieux-Port,8,1
+502624,2026-09-24 18:11:00,Métro Berri-UQAM,Canal de Lachine,13,1
+502625,2026-09-24 18:11:08,Métro Atwater,Marché Jean-Talon,10,0
+502626,2026-09-24 18:28:51,Métro Atwater,Vieux-Port,11,0
+502627,2026-09-24 18:33:17,Parc Jarry,Métro Atwater,13,0
+502628,2026-09-24 18:42:13,Métro Mont-Royal,Vieux-Port,13,0
+502629,2026-09-24 18:42:40,Métro Atwater,Rue Saint-Denis,6,0
+502630,2026-09-24 18:44:36,Parc Jarry,Métro Atwater,15,1
+502631,2026-09-24 18:46:21,Métro Mont-Royal,Canal de Lachine,10,1
+502632,2026-09-24 18:47:08,Vieux-Port,Métro Berri-UQAM,8,0
+502633,2026-09-24 18:47:24,Université McGill,Rue Saint-Denis,20,1
+502634,2026-09-24 18:56:32,Vieux-Port,Métro Mont-Royal,21,0
+502635,2026-09-24 19:11:19,Vieux-Port,Métro Atwater,13,0
+502636,2026-09-24 19:12:46,Marché Jean-Talon,Métro Atwater,12,0
+502637,2026-09-24 19:12:51,Parc La Fontaine,Canal de Lachine,28,0
+502638,2026-09-24 19:14:13,Rue Saint-Denis,Métro Berri-UQAM,18,0
+502639,2026-09-24 19:14:16,Rue Saint-Denis,Métro Berri-UQAM,3,1
+502640,2026-09-24 19:17:36,Marché Jean-Talon,Rue Saint-Denis,21,1
+502641,2026-09-24 19:18:05,Métro Berri-UQAM,Université McGill,14,0
+502642,2026-09-24 19:18:27,Rue Saint-Denis,Parc La Fontaine,3,1
+502643,2026-09-24 19:29:23,Métro Mont-Royal,Université McGill,13,0
+502644,2026-09-24 19:35:25,Métro Mont-Royal,Université McGill,8,0
+502645,2026-09-24 19:36:23,Vieux-Port,Canal de Lachine,6,0
+502646,2026-09-24 19:39:17,Parc La Fontaine,Canal de Lachine,18,1
+502647,2026-09-24 19:39:46,Université McGill,Marché Jean-Talon,15,1
+502648,2026-09-24 19:40:16,Vieux-Port,Marché Jean-Talon,10,1
+502649,2026-09-24 19:53:47,Métro Mont-Royal,Parc Jarry,17,0
+502650,2026-09-24 19:55:23,Université McGill,Métro Berri-UQAM,19,0
+502651,2026-09-24 19:58:18,Rue Saint-Denis,Métro Mont-Royal,8,1
+502652,2026-09-24 19:59:45,Parc La Fontaine,Canal de Lachine,5,0
+502653,2026-09-24 19:59:52,Métro Berri-UQAM,Vieux-Port,10,0
+502654,2026-09-24 20:01:55,Marché Jean-Talon,Rue Saint-Denis,10,0
+502655,2026-09-24 20:05:07,Canal de Lachine,Vieux-Port,15,0
+502656,2026-09-24 20:09:41,Vieux-Port,Parc Jarry,18,1
+502657,2026-09-24 20:10:43,Vieux-Port,Métro Atwater,7,0
+502658,2026-09-24 20:23:58,Marché Jean-Talon,Métro Berri-UQAM,9,0
+502659,2026-09-24 20:25:06,Métro Atwater,Marché Jean-Talon,10,0
+502660,2026-09-24 20:25:32,Métro Mont-Royal,Marché Jean-Talon,6,0
+502661,2026-09-24 20:31:21,Métro Mont-Royal,Vieux-Port,5,0
+502662,2026-09-24 20:34:24,Université McGill,Canal de Lachine,16,1
+502663,2026-09-24 20:38:15,Métro Berri-UQAM,Marché Jean-Talon,4,1
+502664,2026-09-24 20:50:38,Université McGill,Canal de Lachine,6,0
+502665,2026-09-24 20:54:06,Rue Saint-Denis,Université McGill,11,1
+502666,2026-09-24 20:55:22,Canal de Lachine,Métro Mont-Royal,6,0
+502667,2026-09-24 21:02:01,Vieux-Port,Université McGill,12,0
+502668,2026-09-24 21:05:20,Parc La Fontaine,Métro Berri-UQAM,19,0
+502669,2026-09-24 21:07:07,Métro Mont-Royal,Vieux-Port,15,1
+502670,2026-09-24 21:19:17,Métro Atwater,Parc La Fontaine,9,0
+502671,2026-09-24 21:37:43,Métro Berri-UQAM,Métro Mont-Royal,5,0
+502672,2026-09-24 21:38:02,Marché Jean-Talon,Métro Mont-Royal,13,1
+502673,2026-09-24 21:39:20,Métro Mont-Royal,Parc La Fontaine,12,1
+502674,2026-09-24 21:42:33,Université McGill,Rue Saint-Denis,19,0
+502675,2026-09-24 21:46:31,Marché Jean-Talon,Métro Atwater,11,0
+502676,2026-09-24 21:57:39,Rue Saint-Denis,Marché Jean-Talon,12,0
+502677,2026-09-24 22:01:54,Parc La Fontaine,Vieux-Port,15,0
+502678,2026-09-24 22:02:19,Parc La Fontaine,Rue Saint-Denis,27,1
+502679,2026-09-24 22:05:20,Métro Mont-Royal,Canal de Lachine,25,1
+502680,2026-09-24 22:12:46,Parc Jarry,Vieux-Port,15,1
+502681,2026-09-24 22:15:23,Métro Mont-Royal,Métro Berri-UQAM,13,0
+502682,2026-09-24 22:21:20,Métro Mont-Royal,Vieux-Port,14,1
+502683,2026-09-24 22:25:23,Parc Jarry,Parc La Fontaine,14,0
+502684,2026-09-24 22:25:39,Canal de Lachine,Parc Jarry,7,0
+502685,2026-09-24 22:27:08,Métro Berri-UQAM,Parc Jarry,3,0
+502686,2026-09-24 22:29:34,Canal de Lachine,Métro Mont-Royal,6,0
+502687,2026-09-24 22:30:05,Métro Atwater,Métro Berri-UQAM,8,0
+502688,2026-09-24 22:41:14,Parc La Fontaine,Université McGill,6,1
+502689,2026-09-24 22:51:17,Métro Atwater,Canal de Lachine,12,0
+502690,2026-09-24 22:51:53,Métro Mont-Royal,Rue Saint-Denis,21,0
+502691,2026-09-24 22:52:13,Canal de Lachine,Métro Atwater,22,0
+502692,2026-09-24 22:59:12,Rue Saint-Denis,Métro Mont-Royal,13,1
+502693,2026-09-24 22:59:38,Métro Berri-UQAM,Métro Mont-Royal,3,0
+502694,2026-09-24 23:01:53,Université McGill,Métro Berri-UQAM,14,1
+502695,2026-09-24 23:07:21,Marché Jean-Talon,Métro Atwater,14,0
+502696,2026-09-24 23:13:37,Canal de Lachine,Métro Berri-UQAM,8,0
+502697,2026-09-24 23:13:38,Canal de Lachine,Métro Atwater,15,0
+502698,2026-09-24 23:14:23,Parc La Fontaine,Métro Atwater,18,1
+502699,2026-09-24 23:16:39,Parc La Fontaine,Métro Berri-UQAM,5,1
+502700,2026-09-24 23:23:16,Métro Berri-UQAM,Université McGill,3,1
+502701,2026-09-24 23:29:52,Métro Mont-Royal,Canal de Lachine,17,0
+502702,2026-09-24 23:29:58,Métro Berri-UQAM,Métro Atwater,7,0
+502703,2026-09-25 06:00:09,Parc Jarry,Métro Atwater,12,1
+502704,2026-09-25 06:04:47,Métro Mont-Royal,Rue Saint-Denis,25,1
+502705,2026-09-25 06:07:43,Université McGill,Métro Atwater,18,1
+502706,2026-09-25 06:08:07,Parc La Fontaine,Université McGill,7,1
+502707,2026-09-25 06:08:15,Rue Saint-Denis,Métro Atwater,14,0
+502708,2026-09-25 06:09:06,Parc Jarry,Métro Mont-Royal,13,0
+502709,2026-09-25 06:09:16,Métro Berri-UQAM,Métro Mont-Royal,3,0
+502710,2026-09-25 06:09:54,Université McGill,Métro Atwater,23,0
+502711,2026-09-25 06:10:38,Métro Atwater,Université McGill,9,1
+502712,2026-09-25 06:14:02,Métro Mont-Royal,Marché Jean-Talon,4,0
+502713,2026-09-25 06:19:06,Métro Mont-Royal,Marché Jean-Talon,8,0
+502714,2026-09-25 06:21:57,Rue Saint-Denis,Canal de Lachine,10,1
+502715,2026-09-25 06:23:36,Rue Saint-Denis,Métro Atwater,23,0
+502716,2026-09-25 06:36:27,Vieux-Port,Métro Mont-Royal,4,0
+502717,2026-09-25 06:38:46,Vieux-Port,Canal de Lachine,3,0
+502718,2026-09-25 06:39:02,Université McGill,Canal de Lachine,16,0
+502719,2026-09-25 06:45:42,Vieux-Port,Marché Jean-Talon,23,0
+502720,2026-09-25 06:45:42,Métro Berri-UQAM,Université McGill,12,0
+502721,2026-09-25 06:53:21,Parc Jarry,Métro Berri-UQAM,11,1
+502722,2026-09-25 07:06:31,Rue Saint-Denis,Parc Jarry,11,0
+502723,2026-09-25 07:07:16,Parc La Fontaine,Métro Atwater,12,0
+502724,2026-09-25 07:10:26,Métro Atwater,Marché Jean-Talon,8,0
+502725,2026-09-25 07:13:42,Métro Berri-UQAM,Parc La Fontaine,17,0
+502726,2026-09-25 07:16:21,Métro Mont-Royal,Vieux-Port,16,1
+502727,2026-09-25 07:22:30,Métro Mont-Royal,Métro Atwater,21,1
+502728,2026-09-25 07:27:34,Métro Berri-UQAM,Parc La Fontaine,25,0
+502729,2026-09-25 07:39:56,Métro Mont-Royal,Rue Saint-Denis,11,1
+502730,2026-09-25 07:40:08,Métro Mont-Royal,Rue Saint-Denis,11,0
+502731,2026-09-25 07:49:04,Vieux-Port,Métro Berri-UQAM,13,1
+502732,2026-09-25 07:50:15,Parc La Fontaine,Métro Mont-Royal,11,0
+502733,2026-09-25 07:53:28,Université McGill,Rue Saint-Denis,10,0
+502734,2026-09-25 07:55:10,Métro Berri-UQAM,Parc Jarry,22,0
+502735,2026-09-25 08:38:37,Métro Berri-UQAM,Parc Jarry,12,0
+502736,2026-09-25 08:40:46,Parc Jarry,Canal de Lachine,6,0
+502737,2026-09-25 08:44:30,Marché Jean-Talon,Métro Mont-Royal,12,1
+502738,2026-09-25 08:52:14,Canal de Lachine,Métro Atwater,10,1
+502739,2026-09-25 08:57:07,Rue Saint-Denis,Canal de Lachine,16,0
+502740,2026-09-25 08:58:40,Rue Saint-Denis,Métro Mont-Royal,21,1
+502741,2026-09-25 08:59:17,Métro Mont-Royal,Parc La Fontaine,7,0
+502742,2026-09-25 09:00:26,Métro Mont-Royal,Canal de Lachine,20,1
+502743,2026-09-25 09:06:55,Marché Jean-Talon,Métro Atwater,10,0
+502744,2026-09-25 09:11:22,Métro Mont-Royal,Métro Berri-UQAM,16,1
+502745,2026-09-25 09:12:36,Rue Saint-Denis,Canal de Lachine,10,0
+502746,2026-09-25 09:23:16,Vieux-Port,Marché Jean-Talon,23,1
+502747,2026-09-25 09:24:01,Vieux-Port,Métro Mont-Royal,5,0
+502748,2026-09-25 09:25:22,Métro Berri-UQAM,Parc Jarry,18,0
+502749,2026-09-25 09:26:10,Métro Mont-Royal,Parc La Fontaine,20,1
+502750,2026-09-25 09:36:07,Vieux-Port,Parc La Fontaine,10,1
+502751,2026-09-25 09:37:19,Canal de Lachine,Parc La Fontaine,3,1
+502752,2026-09-25 09:37:40,Métro Mont-Royal,Métro Berri-UQAM,13,0
+502753,2026-09-25 09:37:59,Vieux-Port,Parc Jarry,17,1
+502754,2026-09-25 09:39:26,Marché Jean-Talon,Vieux-Port,20,1
+502755,2026-09-25 09:41:26,Métro Atwater,Parc La Fontaine,10,0
+502756,2026-09-25 09:48:25,Université McGill,Métro Atwater,12,0
+502757,2026-09-25 09:55:12,Métro Mont-Royal,Métro Berri-UQAM,6,0
+502758,2026-09-25 10:08:48,Métro Berri-UQAM,Rue Saint-Denis,17,0
+502759,2026-09-25 10:11:12,Canal de Lachine,Rue Saint-Denis,7,0
+502760,2026-09-25 10:16:07,Vieux-Port,Parc La Fontaine,16,1
+502761,2026-09-25 10:20:25,Université McGill,Parc Jarry,3,0
+502762,2026-09-25 10:23:52,Métro Berri-UQAM,Vieux-Port,3,0
+502763,2026-09-25 10:32:31,Métro Mont-Royal,Parc La Fontaine,10,1
+502764,2026-09-25 10:36:51,Rue Saint-Denis,Marché Jean-Talon,8,1
+502765,2026-09-25 10:37:31,Marché Jean-Talon,Vieux-Port,12,0
+502766,2026-09-25 10:40:35,Vieux-Port,Université McGill,12,0
+502767,2026-09-25 10:52:30,Marché Jean-Talon,Université McGill,14,0
+502768,2026-09-25 10:55:08,Parc Jarry,Vieux-Port,14,0
+502769,2026-09-25 11:04:29,Métro Berri-UQAM,Canal de Lachine,12,0
+502770,2026-09-25 11:06:14,Rue Saint-Denis,Métro Atwater,7,0
+502771,2026-09-25 11:10:13,Métro Atwater,Marché Jean-Talon,21,1
+502772,2026-09-25 11:13:01,Parc La Fontaine,Vieux-Port,18,0
+502773,2026-09-25 11:14:30,Canal de Lachine,Marché Jean-Talon,15,1
+502774,2026-09-25 11:21:07,Métro Atwater,Marché Jean-Talon,17,1
+502775,2026-09-25 11:21:53,Canal de Lachine,Métro Berri-UQAM,3,0
+502776,2026-09-25 11:32:41,Métro Mont-Royal,Université McGill,5,0
+502777,2026-09-25 11:33:40,Université McGill,Métro Atwater,18,1
+502778,2026-09-25 11:36:44,Vieux-Port,Métro Mont-Royal,28,0
+502779,2026-09-25 11:38:28,Parc Jarry,Université McGill,8,1
+502780,2026-09-25 11:40:48,Marché Jean-Talon,Vieux-Port,17,1
+502781,2026-09-25 11:41:57,Rue Saint-Denis,Canal de Lachine,3,0
+502782,2026-09-25 11:45:05,Métro Berri-UQAM,Canal de Lachine,14,1
+502783,2026-09-25 11:45:24,Université McGill,Rue Saint-Denis,14,0
+502784,2026-09-25 11:46:57,Parc La Fontaine,Marché Jean-Talon,17,1
+502785,2026-09-25 11:47:40,Parc La Fontaine,Métro Mont-Royal,14,0
+502786,2026-09-25 11:53:02,Vieux-Port,Université McGill,8,1
+502787,2026-09-25 11:55:02,Métro Atwater,Université McGill,18,0
+502788,2026-09-25 11:55:08,Parc La Fontaine,Métro Berri-UQAM,9,1
+502789,2026-09-25 11:57:42,Marché Jean-Talon,Métro Mont-Royal,3,0
+502790,2026-09-25 12:03:42,Métro Mont-Royal,Métro Atwater,16,1
+502791,2026-09-25 12:04:42,Marché Jean-Talon,Parc La Fontaine,7,0
+502792,2026-09-25 12:10:02,Métro Berri-UQAM,Canal de Lachine,15,0
+502793,2026-09-25 12:17:00,Métro Mont-Royal,Parc Jarry,6,0
+502794,2026-09-25 12:28:39,Parc Jarry,Marché Jean-Talon,11,0
+502795,2026-09-25 12:44:22,Université McGill,Rue Saint-Denis,8,0
+502796,2026-09-25 12:45:26,Marché Jean-Talon,Canal de Lachine,20,0
+502797,2026-09-25 12:59:37,Métro Mont-Royal,Métro Atwater,9,0
+502798,2026-09-25 13:06:47,Parc Jarry,Métro Berri-UQAM,16,0
+502799,2026-09-25 13:10:31,Parc La Fontaine,Vieux-Port,24,1
+502800,2026-09-25 13:15:41,Marché Jean-Talon,Vieux-Port,7,1
+502801,2026-09-25 13:21:19,Rue Saint-Denis,Parc La Fontaine,10,1
+502802,2026-09-25 13:31:58,Canal de Lachine,Rue Saint-Denis,15,0
+502803,2026-09-25 13:33:02,Parc Jarry,Métro Mont-Royal,23,0
+502804,2026-09-25 13:35:13,Rue Saint-Denis,Vieux-Port,3,0
+502805,2026-09-25 13:35:37,Métro Mont-Royal,Canal de Lachine,13,1
+502806,2026-09-25 13:42:25,Université McGill,Canal de Lachine,12,1
+502807,2026-09-25 13:47:24,Université McGill,Métro Berri-UQAM,17,0
+502808,2026-09-25 13:47:30,Université McGill,Métro Berri-UQAM,3,0
+502809,2026-09-25 13:51:51,Canal de Lachine,Marché Jean-Talon,16,0
+502810,2026-09-25 13:56:33,Métro Mont-Royal,Parc La Fontaine,13,0
+502811,2026-09-25 13:56:49,Rue Saint-Denis,Vieux-Port,9,1
+502812,2026-09-25 13:57:36,Métro Mont-Royal,Métro Atwater,21,1
+502813,2026-09-25 14:00:01,Parc La Fontaine,Métro Mont-Royal,18,0
+502814,2026-09-25 14:02:43,Métro Berri-UQAM,Métro Mont-Royal,17,1
+502815,2026-09-25 14:10:49,Métro Berri-UQAM,Métro Mont-Royal,9,0
+502816,2026-09-25 14:17:42,Parc La Fontaine,Marché Jean-Talon,18,1
+502817,2026-09-25 14:24:59,Parc La Fontaine,Métro Mont-Royal,25,0
+502818,2026-09-25 14:27:23,Vieux-Port,Rue Saint-Denis,11,0
+502819,2026-09-25 14:29:14,Métro Atwater,Parc Jarry,15,0
+502820,2026-09-25 14:31:27,Vieux-Port,Métro Atwater,5,1
+502821,2026-09-25 14:31:29,Vieux-Port,Métro Atwater,11,0
+502822,2026-09-25 14:34:52,Métro Mont-Royal,Vieux-Port,8,0
+502823,2026-09-25 14:38:06,Métro Mont-Royal,Marché Jean-Talon,3,0
+502824,2026-09-25 14:41:59,Métro Mont-Royal,Université McGill,9,0
+502825,2026-09-25 14:47:18,Université McGill,Vieux-Port,4,0
+502826,2026-09-25 14:49:44,Université McGill,Marché Jean-Talon,8,1
+502827,2026-09-25 14:50:49,Parc Jarry,Marché Jean-Talon,9,1
+502828,2026-09-25 14:53:00,Parc La Fontaine,Vieux-Port,15,1
+502829,2026-09-25 15:01:17,Vieux-Port,Canal de Lachine,20,1
+502830,2026-09-25 15:01:54,Université McGill,Parc La Fontaine,12,0
+502831,2026-09-25 15:04:25,Université McGill,Canal de Lachine,13,1
+502832,2026-09-25 15:05:32,Marché Jean-Talon,Parc Jarry,8,1
+502833,2026-09-25 15:11:53,Parc La Fontaine,Marché Jean-Talon,7,1
+502834,2026-09-25 15:26:13,Parc La Fontaine,Université McGill,15,0
+502835,2026-09-25 15:35:44,Parc La Fontaine,Métro Atwater,18,1
+502836,2026-09-25 15:37:33,Métro Mont-Royal,Métro Berri-UQAM,8,0
+502837,2026-09-25 15:37:34,Parc Jarry,Rue Saint-Denis,13,1
+502838,2026-09-25 15:42:54,Marché Jean-Talon,Vieux-Port,3,0
+502839,2026-09-25 15:45:55,Rue Saint-Denis,Université McGill,13,0
+502840,2026-09-25 15:47:23,Métro Atwater,Marché Jean-Talon,27,1
+502841,2026-09-25 15:48:36,Métro Berri-UQAM,Marché Jean-Talon,3,0
+502842,2026-09-25 15:57:47,Métro Berri-UQAM,Métro Mont-Royal,11,0
+502843,2026-09-25 16:00:40,Métro Atwater,Rue Saint-Denis,5,0
+502844,2026-09-25 16:01:12,Canal de Lachine,Métro Berri-UQAM,16,0
+502845,2026-09-25 16:02:59,Université McGill,Parc La Fontaine,14,1
+502846,2026-09-25 16:03:53,Marché Jean-Talon,Métro Atwater,16,0
+502847,2026-09-25 16:11:57,Parc La Fontaine,Marché Jean-Talon,9,0
+502848,2026-09-25 16:13:48,Université McGill,Parc La Fontaine,18,1
+502849,2026-09-25 16:19:56,Canal de Lachine,Parc Jarry,15,0
+502850,2026-09-25 16:23:08,Université McGill,Parc La Fontaine,11,1
+502851,2026-09-25 16:23:56,Vieux-Port,Rue Saint-Denis,6,0
+502852,2026-09-25 16:25:36,Parc Jarry,Canal de Lachine,20,0
+502853,2026-09-25 16:31:24,Parc La Fontaine,Marché Jean-Talon,23,0
+502854,2026-09-25 16:32:11,Université McGill,Parc La Fontaine,10,0
+502855,2026-09-25 16:38:45,Rue Saint-Denis,Marché Jean-Talon,3,0
+502856,2026-09-25 16:39:20,Parc La Fontaine,Vieux-Port,8,1
+502857,2026-09-25 16:49:24,Métro Atwater,Rue Saint-Denis,12,1
+502858,2026-09-25 16:51:08,Canal de Lachine,Marché Jean-Talon,23,1
+502859,2026-09-25 16:58:22,Canal de Lachine,Métro Berri-UQAM,3,1
+502860,2026-09-25 17:00:40,Métro Mont-Royal,Canal de Lachine,10,0
+502861,2026-09-25 17:02:01,Métro Mont-Royal,Métro Atwater,12,1
+502862,2026-09-25 17:03:00,Parc La Fontaine,Métro Mont-Royal,8,1
+502863,2026-09-25 17:04:39,Parc Jarry,Marché Jean-Talon,12,0
+502864,2026-09-25 17:09:03,Métro Mont-Royal,Parc Jarry,4,0
+502865,2026-09-25 17:11:02,Vieux-Port,Métro Berri-UQAM,9,1
+502866,2026-09-25 17:12:34,Métro Mont-Royal,Métro Atwater,18,0
+502867,2026-09-25 17:17:58,Métro Mont-Royal,Vieux-Port,21,0
+502868,2026-09-25 17:18:06,Métro Mont-Royal,Parc Jarry,7,0
+502869,2026-09-25 17:23:13,Parc La Fontaine,Métro Atwater,14,1
+502870,2026-09-25 17:24:27,Marché Jean-Talon,Rue Saint-Denis,14,1
+502871,2026-09-25 17:24:57,Parc La Fontaine,Métro Mont-Royal,21,0
+502872,2026-09-25 17:26:17,Métro Mont-Royal,Rue Saint-Denis,26,0
+502873,2026-09-25 17:28:43,Université McGill,Métro Mont-Royal,15,1
+502874,2026-09-25 17:30:16,Canal de Lachine,Université McGill,17,1
+502875,2026-09-25 17:36:49,Métro Atwater,Métro Berri-UQAM,18,0
+502876,2026-09-25 17:39:40,Métro Atwater,Métro Berri-UQAM,10,0
+502877,2026-09-25 17:40:26,Parc La Fontaine,Rue Saint-Denis,5,1
+502878,2026-09-25 17:49:10,Métro Mont-Royal,Canal de Lachine,20,1
+502879,2026-09-25 17:50:53,Parc La Fontaine,Métro Atwater,11,0
+502880,2026-09-25 18:03:36,Canal de Lachine,Marché Jean-Talon,9,0
+502881,2026-09-25 18:11:22,Métro Atwater,Rue Saint-Denis,10,0
+502882,2026-09-25 18:12:25,Métro Mont-Royal,Marché Jean-Talon,3,1
+502883,2026-09-25 18:13:45,Métro Berri-UQAM,Métro Mont-Royal,9,0
+502884,2026-09-25 18:14:06,Métro Atwater,Métro Mont-Royal,19,0
+502885,2026-09-25 18:26:11,Rue Saint-Denis,Marché Jean-Talon,15,0
+502886,2026-09-25 18:29:42,Parc Jarry,Canal de Lachine,9,0
+502887,2026-09-25 18:31:34,Parc La Fontaine,Vieux-Port,19,0
+502888,2026-09-25 18:38:45,Rue Saint-Denis,Vieux-Port,12,0
+502889,2026-09-25 18:40:45,Parc La Fontaine,Métro Mont-Royal,21,0
+502890,2026-09-25 18:53:11,Rue Saint-Denis,Parc Jarry,24,1
+502891,2026-09-25 18:54:10,Université McGill,Rue Saint-Denis,15,1
+502892,2026-09-25 18:55:00,Rue Saint-Denis,Métro Atwater,12,0
+502893,2026-09-25 18:57:42,Canal de Lachine,Marché Jean-Talon,13,1
+502894,2026-09-25 18:59:29,Métro Berri-UQAM,Parc Jarry,16,1
+502895,2026-09-25 19:06:32,Université McGill,Métro Berri-UQAM,25,0
+502896,2026-09-25 19:07:06,Université McGill,Métro Mont-Royal,16,0
+502897,2026-09-25 19:24:51,Canal de Lachine,Rue Saint-Denis,14,0
+502898,2026-09-25 19:34:06,Université McGill,Métro Atwater,21,0
+502899,2026-09-25 19:37:37,Marché Jean-Talon,Métro Mont-Royal,14,1
+502900,2026-09-25 19:40:13,Université McGill,Parc La Fontaine,15,0
+502901,2026-09-25 19:40:47,Métro Berri-UQAM,Parc Jarry,18,1
+502902,2026-09-25 19:42:21,Métro Berri-UQAM,Parc La Fontaine,8,1
+502903,2026-09-25 19:46:23,Vieux-Port,Université McGill,20,0
+502904,2026-09-25 19:53:36,Vieux-Port,Métro Atwater,12,1
+502905,2026-09-25 20:05:57,Canal de Lachine,Université McGill,14,0
+502906,2026-09-25 20:07:06,Parc La Fontaine,Parc Jarry,14,1
+502907,2026-09-25 20:07:15,Métro Mont-Royal,Université McGill,12,0
+502908,2026-09-25 20:10:35,Métro Berri-UQAM,Métro Atwater,7,1
+502909,2026-09-25 20:20:23,Métro Mont-Royal,Canal de Lachine,17,1
+502910,2026-09-25 20:22:08,Université McGill,Canal de Lachine,3,0
+502911,2026-09-25 20:22:40,Marché Jean-Talon,Métro Atwater,4,1
+502912,2026-09-25 20:32:30,Rue Saint-Denis,Parc Jarry,5,0
+502913,2026-09-25 20:33:24,Rue Saint-Denis,Métro Mont-Royal,12,0
+502914,2026-09-25 20:36:34,Rue Saint-Denis,Métro Berri-UQAM,12,0
+502915,2026-09-25 20:36:53,Parc Jarry,Vieux-Port,7,1
+502916,2026-09-25 20:40:17,Vieux-Port,Métro Berri-UQAM,18,0
+502917,2026-09-25 20:41:28,Parc Jarry,Canal de Lachine,7,0
+502918,2026-09-25 20:44:30,Métro Mont-Royal,Université McGill,3,0
+502919,2026-09-25 20:45:06,Marché Jean-Talon,Vieux-Port,10,0
+502920,2026-09-25 20:46:14,Parc Jarry,Parc La Fontaine,3,0
+502921,2026-09-25 20:51:43,Métro Atwater,Vieux-Port,23,0
+502922,2026-09-25 20:55:45,Métro Berri-UQAM,Métro Mont-Royal,18,1
+502923,2026-09-25 20:55:59,Rue Saint-Denis,Parc La Fontaine,17,0
+502924,2026-09-25 21:09:25,Canal de Lachine,Parc La Fontaine,11,0
+502925,2026-09-25 21:18:52,Marché Jean-Talon,Parc La Fontaine,13,0
+502926,2026-09-25 21:23:39,Métro Mont-Royal,Vieux-Port,10,0
+502927,2026-09-25 21:30:07,Vieux-Port,Métro Berri-UQAM,7,0
+502928,2026-09-25 21:31:29,Parc Jarry,Métro Berri-UQAM,21,1
+502929,2026-09-25 21:38:47,Métro Mont-Royal,Canal de Lachine,24,0
+502930,2026-09-25 21:41:37,Métro Atwater,Canal de Lachine,13,0
+502931,2026-09-25 21:55:06,Métro Berri-UQAM,Parc La Fontaine,19,1
+502932,2026-09-25 21:58:46,Université McGill,Métro Atwater,7,0
+502933,2026-09-25 21:59:28,Parc Jarry,Vieux-Port,8,1
+502934,2026-09-25 22:00:51,Métro Mont-Royal,Vieux-Port,10,0
+502935,2026-09-25 22:02:59,Canal de Lachine,Métro Atwater,9,0
+502936,2026-09-25 22:04:46,Métro Mont-Royal,Marché Jean-Talon,17,0
+502937,2026-09-25 22:16:16,Marché Jean-Talon,Métro Berri-UQAM,9,0
+502938,2026-09-25 22:18:31,Parc Jarry,Rue Saint-Denis,16,0
+502939,2026-09-25 22:20:18,Parc La Fontaine,Métro Atwater,3,0
+502940,2026-09-25 22:22:06,Parc Jarry,Métro Atwater,3,0
+502941,2026-09-25 22:24:12,Parc Jarry,Métro Mont-Royal,15,0
+502942,2026-09-25 22:37:14,Parc La Fontaine,Vieux-Port,10,0
+502943,2026-09-25 22:39:20,Parc Jarry,Métro Berri-UQAM,5,1
+502944,2026-09-25 22:39:53,Marché Jean-Talon,Métro Berri-UQAM,22,0
+502945,2026-09-25 22:42:22,Université McGill,Métro Mont-Royal,14,0
+502946,2026-09-25 22:47:09,Métro Mont-Royal,Parc Jarry,21,0
+502947,2026-09-25 22:52:08,Canal de Lachine,Université McGill,12,1
+502948,2026-09-25 23:02:59,Parc La Fontaine,Rue Saint-Denis,7,0
+502949,2026-09-25 23:03:07,Vieux-Port,Métro Atwater,18,0
+502950,2026-09-25 23:06:02,Université McGill,Vieux-Port,8,1
+502951,2026-09-25 23:09:01,Métro Atwater,Parc Jarry,20,0
+502952,2026-09-25 23:14:50,Métro Mont-Royal,Université McGill,11,0
+502953,2026-09-25 23:15:17,Parc La Fontaine,Métro Mont-Royal,20,0
+502954,2026-09-25 23:19:30,Métro Mont-Royal,Parc La Fontaine,14,1
+502955,2026-09-26 06:13:35,Parc La Fontaine,Université McGill,11,0
+502956,2026-09-26 06:21:46,Parc La Fontaine,Métro Mont-Royal,16,1
+502957,2026-09-26 06:30:02,Université McGill,Canal de Lachine,20,0
+502958,2026-09-26 06:33:54,Métro Atwater,Vieux-Port,14,0
+502959,2026-09-26 06:38:19,Métro Mont-Royal,Rue Saint-Denis,17,0
+502960,2026-09-26 06:40:01,Métro Berri-UQAM,Métro Mont-Royal,13,0
+502961,2026-09-26 06:40:42,Métro Atwater,Vieux-Port,12,1
+502962,2026-09-26 07:06:05,Rue Saint-Denis,Vieux-Port,14,1
+502963,2026-09-26 07:20:39,Parc Jarry,Métro Mont-Royal,13,0
+502964,2026-09-26 07:28:19,Métro Atwater,Marché Jean-Talon,12,0
+502965,2026-09-26 07:35:22,Métro Mont-Royal,Vieux-Port,20,1
+502966,2026-09-26 07:37:15,Université McGill,Métro Berri-UQAM,13,1
+502967,2026-09-26 07:56:43,Université McGill,Marché Jean-Talon,14,1
+502968,2026-09-26 07:57:27,Parc La Fontaine,Marché Jean-Talon,20,1
+502969,2026-09-26 08:01:12,Marché Jean-Talon,Canal de Lachine,24,0
+502970,2026-09-26 08:13:38,Parc La Fontaine,Rue Saint-Denis,18,1
+502971,2026-09-26 08:17:29,Université McGill,Parc La Fontaine,21,0
+502972,2026-09-26 08:18:54,Métro Berri-UQAM,Métro Mont-Royal,18,0
+502973,2026-09-26 08:26:02,Vieux-Port,Métro Mont-Royal,28,0
+502974,2026-09-26 08:29:27,Vieux-Port,Université McGill,12,0
+502975,2026-09-26 08:45:33,Marché Jean-Talon,Université McGill,12,0
+502976,2026-09-26 08:47:11,Métro Berri-UQAM,Rue Saint-Denis,16,0
+502977,2026-09-26 08:50:35,Université McGill,Parc La Fontaine,16,1
+502978,2026-09-26 08:54:38,Université McGill,Métro Mont-Royal,20,0
+502979,2026-09-26 09:00:14,Métro Mont-Royal,Vieux-Port,14,1
+502980,2026-09-26 09:00:29,Université McGill,Métro Atwater,24,1
+502981,2026-09-26 09:03:08,Métro Mont-Royal,Parc La Fontaine,15,1
+502982,2026-09-26 09:05:16,Marché Jean-Talon,Parc La Fontaine,7,0
+502983,2026-09-26 09:07:26,Université McGill,Parc Jarry,12,1
+502984,2026-09-26 09:08:45,Université McGill,Parc La Fontaine,25,0
+502985,2026-09-26 09:10:30,Vieux-Port,Métro Atwater,22,1
+502986,2026-09-26 09:29:41,Marché Jean-Talon,Parc La Fontaine,25,0
+502987,2026-09-26 09:35:07,Vieux-Port,Métro Mont-Royal,22,1
+502988,2026-09-26 09:36:39,Métro Mont-Royal,Rue Saint-Denis,31,1
+502989,2026-09-26 09:43:17,Parc Jarry,Vieux-Port,27,0
+502990,2026-09-26 09:51:28,Rue Saint-Denis,Métro Atwater,15,0
+502991,2026-09-26 09:54:40,Rue Saint-Denis,Parc La Fontaine,13,0
+502992,2026-09-26 10:01:36,Métro Mont-Royal,Marché Jean-Talon,7,0
+502993,2026-09-26 10:19:20,Marché Jean-Talon,Université McGill,18,1
+502994,2026-09-26 10:21:51,Métro Mont-Royal,Métro Berri-UQAM,10,0
+502995,2026-09-26 10:30:55,Métro Mont-Royal,Canal de Lachine,20,0
+502996,2026-09-26 10:33:17,Métro Mont-Royal,Métro Berri-UQAM,28,0
+502997,2026-09-26 10:34:38,Métro Mont-Royal,Parc Jarry,8,0
+502998,2026-09-26 10:36:12,Parc Jarry,Parc La Fontaine,19,1
+502999,2026-09-26 10:42:42,Parc Jarry,Université McGill,14,1
+503000,2026-09-26 10:48:12,Canal de Lachine,Vieux-Port,12,0
+503001,2026-09-26 10:52:08,Métro Berri-UQAM,Parc Jarry,12,1
+503002,2026-09-26 11:01:37,Canal de Lachine,Métro Atwater,19,1
+503003,2026-09-26 11:04:11,Rue Saint-Denis,Université McGill,20,0
+503004,2026-09-26 11:21:19,Métro Berri-UQAM,Parc Jarry,4,1
+503005,2026-09-26 11:32:48,Rue Saint-Denis,Métro Mont-Royal,12,0
+503006,2026-09-26 11:38:11,Parc La Fontaine,Métro Mont-Royal,26,0
+503007,2026-09-26 11:45:02,Parc La Fontaine,Canal de Lachine,12,1
+503008,2026-09-26 12:01:54,Vieux-Port,Métro Mont-Royal,16,0
+503009,2026-09-26 12:21:02,Marché Jean-Talon,Université McGill,26,0
+503010,2026-09-26 12:29:42,Métro Mont-Royal,Marché Jean-Talon,14,0
+503011,2026-09-26 12:38:44,Métro Atwater,Métro Mont-Royal,8,0
+503012,2026-09-26 12:39:21,Canal de Lachine,Université McGill,12,1
+503013,2026-09-26 12:41:49,Parc La Fontaine,Métro Berri-UQAM,23,0
+503014,2026-09-26 13:01:19,Métro Mont-Royal,Parc La Fontaine,23,0
+503015,2026-09-26 13:27:37,Rue Saint-Denis,Parc La Fontaine,25,1
+503016,2026-09-26 13:34:37,Parc Jarry,Université McGill,9,0
+503017,2026-09-26 13:49:11,Métro Berri-UQAM,Université McGill,23,0
+503018,2026-09-26 13:51:43,Métro Berri-UQAM,Parc Jarry,8,1
+503019,2026-09-26 14:17:06,Métro Mont-Royal,Parc Jarry,22,0
+503020,2026-09-26 14:17:28,Parc Jarry,Rue Saint-Denis,17,0
+503021,2026-09-26 14:19:42,Parc La Fontaine,Rue Saint-Denis,14,0
+503022,2026-09-26 14:29:16,Métro Mont-Royal,Canal de Lachine,9,1
+503023,2026-09-26 14:41:35,Rue Saint-Denis,Métro Berri-UQAM,21,0
+503024,2026-09-26 14:46:33,Canal de Lachine,Marché Jean-Talon,18,1
+503025,2026-09-26 14:47:36,Métro Mont-Royal,Parc Jarry,20,0
+503026,2026-09-26 14:50:15,Métro Berri-UQAM,Parc La Fontaine,12,1
+503027,2026-09-26 14:55:18,Métro Mont-Royal,Parc La Fontaine,17,0
+503028,2026-09-26 14:55:54,Marché Jean-Talon,Parc La Fontaine,12,1
+503029,2026-09-26 14:57:05,Marché Jean-Talon,Vieux-Port,20,0
+503030,2026-09-26 14:57:18,Vieux-Port,Parc Jarry,14,0
+503031,2026-09-26 15:06:35,Rue Saint-Denis,Parc La Fontaine,9,0
+503032,2026-09-26 15:23:13,Parc La Fontaine,Métro Berri-UQAM,15,1
+503033,2026-09-26 15:24:18,Rue Saint-Denis,Parc Jarry,12,1
+503034,2026-09-26 15:32:16,Rue Saint-Denis,Parc Jarry,12,1
+503035,2026-09-26 15:56:26,Parc Jarry,Parc La Fontaine,15,0
+503036,2026-09-26 16:09:30,Marché Jean-Talon,Parc La Fontaine,18,0
+503037,2026-09-26 16:14:54,Métro Mont-Royal,Marché Jean-Talon,21,0
+503038,2026-09-26 16:14:55,Métro Mont-Royal,Métro Atwater,16,0
+503039,2026-09-26 16:23:20,Canal de Lachine,Vieux-Port,20,0
+503040,2026-09-26 16:26:56,Parc La Fontaine,Marché Jean-Talon,24,0
+503041,2026-09-26 16:27:14,Métro Berri-UQAM,Canal de Lachine,21,1
+503042,2026-09-26 16:42:35,Canal de Lachine,Métro Mont-Royal,21,0
+503043,2026-09-26 16:49:26,Vieux-Port,Marché Jean-Talon,20,0
+503044,2026-09-26 16:52:52,Vieux-Port,Rue Saint-Denis,3,0
+503045,2026-09-26 16:59:59,Parc La Fontaine,Canal de Lachine,8,0
+503046,2026-09-26 17:13:44,Vieux-Port,Canal de Lachine,21,1
+503047,2026-09-26 17:14:30,Parc La Fontaine,Métro Mont-Royal,20,1
+503048,2026-09-26 17:19:21,Métro Berri-UQAM,Rue Saint-Denis,10,0
+503049,2026-09-26 17:53:38,Parc Jarry,Parc La Fontaine,20,1
+503050,2026-09-26 17:59:44,Canal de Lachine,Métro Mont-Royal,27,1
+503051,2026-09-26 18:09:29,Marché Jean-Talon,Université McGill,16,0
+503052,2026-09-26 18:10:44,Vieux-Port,Canal de Lachine,16,1
+503053,2026-09-26 18:11:46,Vieux-Port,Parc Jarry,32,1
+503054,2026-09-26 18:13:26,Vieux-Port,Université McGill,23,0
+503055,2026-09-26 18:22:26,Parc La Fontaine,Métro Atwater,16,0
+503056,2026-09-26 18:29:18,Parc Jarry,Vieux-Port,19,1
+503057,2026-09-26 18:36:17,Vieux-Port,Métro Mont-Royal,16,0
+503058,2026-09-26 18:36:18,Parc Jarry,Parc La Fontaine,20,1
+503059,2026-09-26 18:43:45,Université McGill,Marché Jean-Talon,29,0
+503060,2026-09-26 18:49:13,Université McGill,Marché Jean-Talon,14,0
+503061,2026-09-26 18:50:52,Métro Berri-UQAM,Métro Atwater,13,0
+503062,2026-09-26 19:07:00,Métro Berri-UQAM,Parc La Fontaine,16,1
+503063,2026-09-26 19:13:06,Parc Jarry,Marché Jean-Talon,13,1
+503064,2026-09-26 19:19:50,Parc Jarry,Canal de Lachine,26,0
+503065,2026-09-26 19:24:17,Métro Atwater,Rue Saint-Denis,8,0
+503066,2026-09-26 19:24:30,Métro Mont-Royal,Parc La Fontaine,30,0
+503067,2026-09-26 19:52:54,Canal de Lachine,Université McGill,3,1
+503068,2026-09-26 20:04:54,Métro Mont-Royal,Vieux-Port,18,1
+503069,2026-09-26 20:13:27,Vieux-Port,Université McGill,19,0
+503070,2026-09-26 20:14:49,Marché Jean-Talon,Vieux-Port,11,0
+503071,2026-09-26 20:24:29,Métro Berri-UQAM,Parc La Fontaine,22,0
+503072,2026-09-26 20:25:53,Parc La Fontaine,Parc Jarry,21,1
+503073,2026-09-26 20:44:38,Parc La Fontaine,Parc Jarry,16,0
+503074,2026-09-26 20:52:39,Métro Mont-Royal,Marché Jean-Talon,25,0
+503075,2026-09-26 20:55:39,Marché Jean-Talon,Métro Atwater,14,1
+503076,2026-09-26 20:55:52,Vieux-Port,Parc La Fontaine,9,1
+503077,2026-09-26 20:55:53,Vieux-Port,Université McGill,22,1
+503078,2026-09-26 21:30:07,Canal de Lachine,Parc La Fontaine,15,0
+503079,2026-09-26 21:33:03,Parc La Fontaine,Vieux-Port,23,0
+503080,2026-09-26 21:57:07,Métro Atwater,Marché Jean-Talon,10,0
+503081,2026-09-26 22:00:45,Université McGill,Métro Atwater,17,0
+503082,2026-09-26 22:10:19,Marché Jean-Talon,Métro Berri-UQAM,18,0
+503083,2026-09-26 22:15:02,Métro Berri-UQAM,Université McGill,19,0
+503084,2026-09-26 22:15:34,Université McGill,Parc Jarry,18,0
+503085,2026-09-26 22:25:48,Vieux-Port,Métro Mont-Royal,24,1
+503086,2026-09-26 22:28:26,Marché Jean-Talon,Canal de Lachine,17,0
+503087,2026-09-26 22:29:27,Métro Mont-Royal,Parc La Fontaine,24,1
+503088,2026-09-26 22:33:00,Parc La Fontaine,Université McGill,9,1
+503089,2026-09-26 22:35:28,Métro Mont-Royal,Marché Jean-Talon,20,1
+503090,2026-09-26 22:42:30,Rue Saint-Denis,Marché Jean-Talon,23,0
+503091,2026-09-26 22:43:49,Marché Jean-Talon,Université McGill,15,1
+503092,2026-09-26 22:44:05,Marché Jean-Talon,Métro Berri-UQAM,22,0
+503093,2026-09-26 22:49:11,Canal de Lachine,Métro Berri-UQAM,26,1
+503094,2026-09-26 22:49:43,Métro Atwater,Vieux-Port,19,0
+503095,2026-09-26 22:49:46,Parc Jarry,Métro Atwater,19,1
+503096,2026-09-26 22:50:12,Marché Jean-Talon,Rue Saint-Denis,17,0
+503097,2026-09-26 22:51:03,Vieux-Port,Métro Mont-Royal,29,1
+503098,2026-09-26 22:51:04,Métro Atwater,Parc Jarry,15,0
+503099,2026-09-26 22:56:52,Parc La Fontaine,Parc Jarry,17,0
+503100,2026-09-26 22:58:00,Métro Mont-Royal,Rue Saint-Denis,13,0
+503101,2026-09-26 23:00:58,Parc La Fontaine,Parc Jarry,13,1
+503102,2026-09-26 23:09:45,Université McGill,Parc Jarry,18,0
+503103,2026-09-26 23:18:26,Métro Mont-Royal,Parc La Fontaine,6,0
+503104,2026-09-26 23:23:24,Métro Mont-Royal,Métro Berri-UQAM,16,0
+503105,2026-09-27 06:00:56,Université McGill,Métro Berri-UQAM,21,0
+503106,2026-09-27 06:01:33,Métro Mont-Royal,Parc Jarry,22,1
+503107,2026-09-27 06:01:48,Parc La Fontaine,Métro Mont-Royal,13,0
+503108,2026-09-27 06:10:14,Parc La Fontaine,Métro Atwater,19,1
+503109,2026-09-27 06:12:07,Parc Jarry,Canal de Lachine,12,1
+503110,2026-09-27 06:14:55,Parc La Fontaine,Université McGill,12,1
+503111,2026-09-27 06:16:24,Vieux-Port,Canal de Lachine,3,0
+503112,2026-09-27 06:16:31,Canal de Lachine,Rue Saint-Denis,17,1
+503113,2026-09-27 06:18:02,Métro Mont-Royal,Métro Atwater,10,1
+503114,2026-09-27 06:22:14,Canal de Lachine,Vieux-Port,23,0
+503115,2026-09-27 06:25:43,Marché Jean-Talon,Canal de Lachine,14,0
+503116,2026-09-27 06:31:37,Parc La Fontaine,Canal de Lachine,12,0
+503117,2026-09-27 06:35:45,Parc La Fontaine,Métro Berri-UQAM,19,0
+503118,2026-09-27 06:36:48,Rue Saint-Denis,Université McGill,22,0
+503119,2026-09-27 06:46:34,Métro Mont-Royal,Parc La Fontaine,14,0
+503120,2026-09-27 06:49:08,Métro Atwater,Métro Berri-UQAM,19,0
+503121,2026-09-27 06:50:54,Métro Mont-Royal,Parc Jarry,21,0
+503122,2026-09-27 06:54:56,Parc La Fontaine,Rue Saint-Denis,22,0
+503123,2026-09-27 06:55:02,Marché Jean-Talon,Canal de Lachine,11,0
+503124,2026-09-27 07:06:01,Métro Mont-Royal,Vieux-Port,15,0
+503125,2026-09-27 07:14:22,Parc La Fontaine,Métro Mont-Royal,26,0
+503126,2026-09-27 07:22:02,Rue Saint-Denis,Parc La Fontaine,21,0
+503127,2026-09-27 07:28:48,Métro Mont-Royal,Université McGill,12,0
+503128,2026-09-27 07:29:58,Parc Jarry,Parc La Fontaine,9,0
+503129,2026-09-27 07:31:03,Rue Saint-Denis,Métro Berri-UQAM,19,0
+503130,2026-09-27 07:33:48,Canal de Lachine,Métro Berri-UQAM,17,0
+503131,2026-09-27 07:39:06,Métro Atwater,Université McGill,7,1
+503132,2026-09-27 07:44:39,Vieux-Port,Métro Berri-UQAM,12,0
+503133,2026-09-27 07:54:10,Université McGill,Métro Berri-UQAM,15,1
+503134,2026-09-27 07:59:23,Métro Berri-UQAM,Université McGill,7,0
+503135,2026-09-27 08:01:31,Université McGill,Canal de Lachine,9,0
+503136,2026-09-27 08:02:50,Métro Atwater,Métro Mont-Royal,12,0
+503137,2026-09-27 08:03:29,Vieux-Port,Rue Saint-Denis,14,1
+503138,2026-09-27 08:12:43,Rue Saint-Denis,Métro Mont-Royal,7,1
+503139,2026-09-27 08:13:13,Canal de Lachine,Vieux-Port,19,0
+503140,2026-09-27 08:13:35,Métro Berri-UQAM,Parc La Fontaine,15,1
+503141,2026-09-27 08:20:00,Parc Jarry,Marché Jean-Talon,20,0
+503142,2026-09-27 08:24:03,Parc La Fontaine,Parc Jarry,16,0
+503143,2026-09-27 08:26:01,Métro Atwater,Métro Berri-UQAM,16,0
+503144,2026-09-27 08:27:25,Rue Saint-Denis,Métro Berri-UQAM,19,0
+503145,2026-09-27 08:28:21,Métro Mont-Royal,Parc Jarry,12,1
+503146,2026-09-27 08:30:29,Métro Berri-UQAM,Marché Jean-Talon,15,0
+503147,2026-09-27 08:31:11,Université McGill,Vieux-Port,21,0
+503148,2026-09-27 08:32:04,Métro Atwater,Métro Mont-Royal,10,1
+503149,2026-09-27 08:42:59,Parc La Fontaine,Vieux-Port,27,0
+503150,2026-09-27 08:46:13,Vieux-Port,Université McGill,18,1
+503151,2026-09-27 08:47:19,Canal de Lachine,Marché Jean-Talon,19,1
+503152,2026-09-27 08:47:36,Métro Mont-Royal,Métro Atwater,14,1
+503153,2026-09-27 08:48:49,Canal de Lachine,Métro Atwater,20,1
+503154,2026-09-27 08:49:06,Métro Mont-Royal,Vieux-Port,19,1
+503155,2026-09-27 08:50:28,Parc Jarry,Rue Saint-Denis,11,1
+503156,2026-09-27 08:52:39,Métro Mont-Royal,Marché Jean-Talon,16,1
+503157,2026-09-27 09:06:50,Université McGill,Parc La Fontaine,18,0
+503158,2026-09-27 09:10:18,Métro Mont-Royal,Vieux-Port,19,0
+503159,2026-09-27 09:11:41,Métro Mont-Royal,Vieux-Port,15,0
+503160,2026-09-27 09:19:12,Métro Mont-Royal,Parc Jarry,17,1
+503161,2026-09-27 09:19:26,Canal de Lachine,Université McGill,27,0
+503162,2026-09-27 09:20:42,Vieux-Port,Université McGill,22,0
+503163,2026-09-27 09:27:52,Canal de Lachine,Rue Saint-Denis,22,0
+503164,2026-09-27 09:30:51,Métro Berri-UQAM,Université McGill,16,1
+503165,2026-09-27 09:31:15,Métro Mont-Royal,Parc Jarry,18,0
+503166,2026-09-27 09:31:32,Université McGill,Canal de Lachine,22,0
+503167,2026-09-27 09:34:19,Université McGill,Vieux-Port,9,1
+503168,2026-09-27 09:34:25,Métro Mont-Royal,Parc Jarry,19,1
+503169,2026-09-27 09:35:48,Métro Mont-Royal,Vieux-Port,18,1
+503170,2026-09-27 09:35:51,Métro Mont-Royal,Université McGill,17,1
+503171,2026-09-27 09:40:06,Rue Saint-Denis,Métro Atwater,6,0
+503172,2026-09-27 09:42:27,Rue Saint-Denis,Marché Jean-Talon,17,0
+503173,2026-09-27 09:48:15,Métro Berri-UQAM,Métro Atwater,15,0
+503174,2026-09-27 09:49:56,Métro Mont-Royal,Université McGill,14,0
+503175,2026-09-27 10:04:45,Métro Berri-UQAM,Marché Jean-Talon,7,1
+503176,2026-09-27 10:05:17,Université McGill,Marché Jean-Talon,9,1
+503177,2026-09-27 10:09:41,Métro Atwater,Université McGill,16,1
+503178,2026-09-27 10:18:57,Vieux-Port,Université McGill,14,0
+503179,2026-09-27 10:27:38,Métro Berri-UQAM,Métro Atwater,25,1
+503180,2026-09-27 10:27:39,Métro Berri-UQAM,Métro Mont-Royal,28,0
+503181,2026-09-27 10:28:06,Métro Atwater,Vieux-Port,12,1
+503182,2026-09-27 10:28:18,Métro Berri-UQAM,Métro Mont-Royal,17,0
+503183,2026-09-27 10:35:26,Université McGill,Parc La Fontaine,15,0
+503184,2026-09-27 10:36:40,Université McGill,Métro Atwater,11,1
+503185,2026-09-27 10:38:50,Métro Mont-Royal,Vieux-Port,12,1
+503186,2026-09-27 10:44:37,Parc Jarry,Métro Atwater,14,1
+503187,2026-09-27 10:45:34,Université McGill,Parc Jarry,21,1
+503188,2026-09-27 10:53:24,Métro Mont-Royal,Canal de Lachine,5,0
+503189,2026-09-27 10:56:59,Métro Atwater,Rue Saint-Denis,14,0
+503190,2026-09-27 10:59:20,Canal de Lachine,Métro Mont-Royal,27,0
+503191,2026-09-27 10:59:57,Rue Saint-Denis,Parc Jarry,8,0
+503192,2026-09-27 11:23:51,Métro Berri-UQAM,Université McGill,17,1
+503193,2026-09-27 11:24:13,Métro Berri-UQAM,Université McGill,19,0
+503194,2026-09-27 11:24:47,Parc La Fontaine,Métro Mont-Royal,9,0
+503195,2026-09-27 11:26:24,Rue Saint-Denis,Université McGill,14,1
+503196,2026-09-27 11:28:29,Métro Mont-Royal,Métro Atwater,26,0
+503197,2026-09-27 11:33:09,Métro Atwater,Rue Saint-Denis,7,0
+503198,2026-09-27 11:35:22,Parc La Fontaine,Métro Mont-Royal,16,0
+503199,2026-09-27 11:37:01,Métro Atwater,Canal de Lachine,21,0
+503200,2026-09-27 11:37:06,Vieux-Port,Université McGill,24,1
+503201,2026-09-27 11:52:44,Métro Mont-Royal,Parc Jarry,19,1
+503202,2026-09-27 11:52:50,Métro Berri-UQAM,Métro Mont-Royal,20,0
+503203,2026-09-27 11:56:39,Marché Jean-Talon,Parc Jarry,19,0
+503204,2026-09-27 12:03:42,Canal de Lachine,Vieux-Port,16,0
+503205,2026-09-27 12:05:44,Métro Atwater,Rue Saint-Denis,13,0
+503206,2026-09-27 12:09:52,Vieux-Port,Canal de Lachine,9,0
+503207,2026-09-27 12:10:46,Parc La Fontaine,Rue Saint-Denis,8,0
+503208,2026-09-27 12:23:47,Métro Mont-Royal,Vieux-Port,16,1
+503209,2026-09-27 12:25:28,Université McGill,Parc La Fontaine,20,0
+503210,2026-09-27 12:25:43,Métro Atwater,Canal de Lachine,21,0
+503211,2026-09-27 12:37:51,Marché Jean-Talon,Rue Saint-Denis,14,1
+503212,2026-09-27 12:44:24,Métro Atwater,Parc Jarry,20,0
+503213,2026-09-27 12:47:14,Métro Atwater,Métro Berri-UQAM,5,0
+503214,2026-09-27 12:47:40,Parc La Fontaine,Métro Berri-UQAM,16,0
+503215,2026-09-27 12:50:32,Métro Mont-Royal,Métro Atwater,15,0
+503216,2026-09-27 13:00:43,Métro Mont-Royal,Parc La Fontaine,20,0
+503217,2026-09-27 13:01:24,Parc La Fontaine,Canal de Lachine,17,0
+503218,2026-09-27 13:02:11,Métro Berri-UQAM,Vieux-Port,11,0
+503219,2026-09-27 13:03:51,Métro Mont-Royal,Métro Atwater,8,1
+503220,2026-09-27 13:11:50,Université McGill,Parc La Fontaine,26,0
+503221,2026-09-27 13:12:56,Vieux-Port,Métro Atwater,8,1
+503222,2026-09-27 13:12:58,Rue Saint-Denis,Parc Jarry,9,0
+503223,2026-09-27 13:17:12,Marché Jean-Talon,Parc Jarry,18,0
+503224,2026-09-27 13:17:49,Marché Jean-Talon,Métro Mont-Royal,23,1
+503225,2026-09-27 13:18:02,Métro Berri-UQAM,Université McGill,19,0
+503226,2026-09-27 13:28:39,Parc La Fontaine,Marché Jean-Talon,22,1
+503227,2026-09-27 13:31:31,Métro Mont-Royal,Vieux-Port,21,0
+503228,2026-09-27 13:43:50,Canal de Lachine,Parc La Fontaine,6,0
+503229,2026-09-27 13:43:58,Parc La Fontaine,Marché Jean-Talon,27,0
+503230,2026-09-27 13:44:02,Métro Berri-UQAM,Métro Mont-Royal,20,1
+503231,2026-09-27 13:45:01,Métro Berri-UQAM,Métro Mont-Royal,22,0
+503232,2026-09-27 13:46:33,Métro Berri-UQAM,Parc La Fontaine,30,1
+503233,2026-09-27 13:57:31,Vieux-Port,Université McGill,24,0
+503234,2026-09-27 13:58:31,Métro Mont-Royal,Vieux-Port,11,0
+503235,2026-09-27 14:01:13,Métro Mont-Royal,Métro Berri-UQAM,16,0
+503236,2026-09-27 14:04:06,Parc La Fontaine,Parc Jarry,26,0
+503237,2026-09-27 14:04:49,Métro Berri-UQAM,Parc La Fontaine,3,1
+503238,2026-09-27 14:05:45,Canal de Lachine,Parc Jarry,13,1
+503239,2026-09-27 14:07:49,Université McGill,Métro Berri-UQAM,11,0
+503240,2026-09-27 14:12:52,Métro Berri-UQAM,Métro Mont-Royal,27,0
+503241,2026-09-27 14:21:56,Rue Saint-Denis,Canal de Lachine,8,0
+503242,2026-09-27 14:22:09,Rue Saint-Denis,Métro Mont-Royal,12,0
+503243,2026-09-27 14:31:30,Parc La Fontaine,Métro Atwater,19,0
+503244,2026-09-27 14:33:14,Métro Berri-UQAM,Métro Mont-Royal,14,0
+503245,2026-09-27 14:34:23,Parc La Fontaine,Marché Jean-Talon,19,0
+503246,2026-09-27 14:36:19,Parc La Fontaine,Métro Atwater,14,0
+503247,2026-09-27 14:41:39,Métro Mont-Royal,Canal de Lachine,28,0
+503248,2026-09-27 14:41:52,Métro Mont-Royal,Université McGill,16,0
+503249,2026-09-27 14:46:18,Parc Jarry,Vieux-Port,16,0
+503250,2026-09-27 14:48:40,Métro Atwater,Marché Jean-Talon,18,0
+503251,2026-09-27 14:52:07,Vieux-Port,Métro Mont-Royal,15,1
+503252,2026-09-27 14:56:03,Métro Berri-UQAM,Métro Mont-Royal,23,0
+503253,2026-09-27 14:58:48,Métro Mont-Royal,Université McGill,10,0
+503254,2026-09-27 15:03:54,Vieux-Port,Métro Atwater,23,1
+503255,2026-09-27 15:04:48,Métro Mont-Royal,Rue Saint-Denis,9,0
+503256,2026-09-27 15:05:41,Rue Saint-Denis,Parc La Fontaine,16,1
+503257,2026-09-27 15:06:01,Métro Berri-UQAM,Canal de Lachine,20,1
+503258,2026-09-27 15:09:18,Marché Jean-Talon,Vieux-Port,11,0
+503259,2026-09-27 15:13:24,Vieux-Port,Rue Saint-Denis,18,0
+503260,2026-09-27 15:15:08,Université McGill,Métro Atwater,23,0
+503261,2026-09-27 15:16:08,Marché Jean-Talon,Métro Atwater,10,0
+503262,2026-09-27 15:16:45,Marché Jean-Talon,Parc La Fontaine,11,0
+503263,2026-09-27 15:20:53,Parc La Fontaine,Métro Mont-Royal,16,1
+503264,2026-09-27 15:23:48,Marché Jean-Talon,Métro Berri-UQAM,17,0
+503265,2026-09-27 15:24:06,Marché Jean-Talon,Métro Berri-UQAM,8,0
+503266,2026-09-27 15:26:27,Marché Jean-Talon,Métro Berri-UQAM,16,0
+503267,2026-09-27 15:28:04,Parc La Fontaine,Vieux-Port,19,1
+503268,2026-09-27 15:30:03,Parc La Fontaine,Rue Saint-Denis,24,1
+503269,2026-09-27 15:34:58,Parc La Fontaine,Parc Jarry,18,0
+503270,2026-09-27 15:42:20,Rue Saint-Denis,Métro Mont-Royal,17,0
+503271,2026-09-27 15:44:47,Vieux-Port,Métro Mont-Royal,11,1
+503272,2026-09-27 15:44:48,Parc Jarry,Métro Mont-Royal,14,0
+503273,2026-09-27 15:51:08,Canal de Lachine,Vieux-Port,15,0
+503274,2026-09-27 15:52:14,Université McGill,Métro Mont-Royal,20,0
+503275,2026-09-27 16:05:22,Vieux-Port,Métro Berri-UQAM,10,0
+503276,2026-09-27 16:09:34,Université McGill,Métro Mont-Royal,10,1
+503277,2026-09-27 16:09:42,Métro Berri-UQAM,Rue Saint-Denis,25,1
+503278,2026-09-27 16:12:04,Métro Berri-UQAM,Parc La Fontaine,15,1
+503279,2026-09-27 16:13:14,Université McGill,Vieux-Port,15,0
+503280,2026-09-27 16:15:16,Canal de Lachine,Métro Atwater,22,1
+503281,2026-09-27 16:25:39,Marché Jean-Talon,Rue Saint-Denis,19,1
+503282,2026-09-27 16:27:09,Parc Jarry,Parc La Fontaine,3,0
+503283,2026-09-27 16:29:09,Métro Mont-Royal,Université McGill,3,0
+503284,2026-09-27 16:32:08,Parc La Fontaine,Métro Mont-Royal,24,0
+503285,2026-09-27 16:32:16,Canal de Lachine,Parc La Fontaine,12,1
+503286,2026-09-27 16:39:52,Métro Berri-UQAM,Parc Jarry,12,0
+503287,2026-09-27 16:42:35,Métro Mont-Royal,Marché Jean-Talon,14,0
+503288,2026-09-27 16:45:27,Parc Jarry,Métro Berri-UQAM,14,0
+503289,2026-09-27 16:52:18,Canal de Lachine,Vieux-Port,21,1
+503290,2026-09-27 16:56:13,Vieux-Port,Université McGill,27,1
+503291,2026-09-27 16:59:35,Université McGill,Métro Mont-Royal,6,0
+503292,2026-09-27 16:59:54,Vieux-Port,Université McGill,15,0
+503293,2026-09-27 17:00:02,Parc Jarry,Métro Atwater,21,0
+503294,2026-09-27 17:13:31,Métro Berri-UQAM,Parc Jarry,10,0
+503295,2026-09-27 17:14:04,Parc La Fontaine,Métro Mont-Royal,16,0
+503296,2026-09-27 17:23:04,Métro Atwater,Rue Saint-Denis,7,0
+503297,2026-09-27 17:25:52,Métro Mont-Royal,Parc La Fontaine,21,1
+503298,2026-09-27 17:28:52,Marché Jean-Talon,Parc La Fontaine,19,0
+503299,2026-09-27 17:29:13,Université McGill,Métro Berri-UQAM,15,0
+503300,2026-09-27 17:34:21,Parc La Fontaine,Métro Atwater,15,1
+503301,2026-09-27 17:40:08,Rue Saint-Denis,Métro Mont-Royal,20,1
+503302,2026-09-27 17:43:38,Métro Mont-Royal,Vieux-Port,21,0
+503303,2026-09-27 17:46:46,Métro Berri-UQAM,Parc Jarry,22,0
+503304,2026-09-27 17:49:53,Parc La Fontaine,Université McGill,17,0
+503305,2026-09-27 17:49:54,Canal de Lachine,Métro Berri-UQAM,16,0
+503306,2026-09-27 17:56:15,Métro Atwater,Vieux-Port,19,1
+503307,2026-09-27 18:02:26,Université McGill,Canal de Lachine,18,0
+503308,2026-09-27 18:03:58,Vieux-Port,Métro Berri-UQAM,12,1
+503309,2026-09-27 18:08:05,Marché Jean-Talon,Métro Berri-UQAM,6,0
+503310,2026-09-27 18:14:08,Université McGill,Parc La Fontaine,10,0
+503311,2026-09-27 18:18:21,Rue Saint-Denis,Canal de Lachine,14,1
+503312,2026-09-27 18:26:00,Parc La Fontaine,Métro Atwater,15,0
+503313,2026-09-27 18:26:48,Marché Jean-Talon,Rue Saint-Denis,21,1
+503314,2026-09-27 18:27:08,Parc Jarry,Marché Jean-Talon,15,1
+503315,2026-09-27 18:34:01,Parc La Fontaine,Université McGill,26,1
+503316,2026-09-27 18:35:13,Métro Berri-UQAM,Canal de Lachine,19,1
+503317,2026-09-27 18:37:27,Métro Mont-Royal,Marché Jean-Talon,13,0
+503318,2026-09-27 18:41:39,Métro Berri-UQAM,Rue Saint-Denis,17,0
+503319,2026-09-27 18:41:50,Marché Jean-Talon,Métro Atwater,9,1
+503320,2026-09-27 18:46:10,Vieux-Port,Métro Atwater,13,1
+503321,2026-09-27 18:47:16,Parc La Fontaine,Métro Atwater,11,0
+503322,2026-09-27 18:50:13,Marché Jean-Talon,Vieux-Port,24,1
+503323,2026-09-27 18:57:56,Canal de Lachine,Vieux-Port,16,0
+503324,2026-09-27 19:03:52,Métro Mont-Royal,Métro Berri-UQAM,17,1
+503325,2026-09-27 19:06:38,Rue Saint-Denis,Métro Berri-UQAM,7,0
+503326,2026-09-27 19:12:35,Canal de Lachine,Parc La Fontaine,25,0
+503327,2026-09-27 19:15:56,Parc Jarry,Marché Jean-Talon,20,0
+503328,2026-09-27 19:22:25,Canal de Lachine,Parc La Fontaine,23,0
+503329,2026-09-27 19:24:00,Vieux-Port,Métro Atwater,25,0
+503330,2026-09-27 19:24:11,Métro Atwater,Marché Jean-Talon,25,0
+503331,2026-09-27 19:34:12,Métro Mont-Royal,Métro Atwater,21,1
+503332,2026-09-27 19:38:40,Parc La Fontaine,Université McGill,13,0
+503333,2026-09-27 19:41:03,Métro Atwater,Métro Mont-Royal,21,0
+503334,2026-09-27 19:52:09,Vieux-Port,Parc La Fontaine,17,0
+503335,2026-09-27 20:06:22,Rue Saint-Denis,Parc La Fontaine,9,0
+503336,2026-09-27 20:09:09,Parc La Fontaine,Métro Atwater,22,1
+503337,2026-09-27 20:11:49,Métro Berri-UQAM,Marché Jean-Talon,13,0
+503338,2026-09-27 20:17:09,Vieux-Port,Métro Berri-UQAM,3,0
+503339,2026-09-27 20:23:58,Métro Mont-Royal,Parc Jarry,13,1
+503340,2026-09-27 20:24:22,Parc La Fontaine,Métro Mont-Royal,26,0
+503341,2026-09-27 20:28:46,Parc Jarry,Université McGill,16,0
+503342,2026-09-27 20:33:50,Vieux-Port,Université McGill,9,0
+503343,2026-09-27 20:35:33,Rue Saint-Denis,Métro Atwater,28,1
+503344,2026-09-27 20:41:36,Métro Atwater,Métro Berri-UQAM,21,1
+503345,2026-09-27 20:44:47,Canal de Lachine,Rue Saint-Denis,18,0
+503346,2026-09-27 20:45:35,Métro Berri-UQAM,Métro Mont-Royal,21,0
+503347,2026-09-27 20:47:18,Métro Mont-Royal,Parc Jarry,24,0
+503348,2026-09-27 20:51:50,Université McGill,Métro Mont-Royal,11,0
+503349,2026-09-27 20:55:21,Métro Atwater,Université McGill,17,0
+503350,2026-09-27 20:55:46,Rue Saint-Denis,Métro Mont-Royal,10,1
+503351,2026-09-27 20:57:09,Canal de Lachine,Vieux-Port,12,0
+503352,2026-09-27 20:58:38,Parc Jarry,Parc La Fontaine,20,0
+503353,2026-09-27 21:09:04,Métro Berri-UQAM,Parc Jarry,18,1
+503354,2026-09-27 21:16:09,Université McGill,Métro Berri-UQAM,17,0
+503355,2026-09-27 21:19:16,Parc La Fontaine,Rue Saint-Denis,13,1
+503356,2026-09-27 21:23:49,Métro Berri-UQAM,Parc Jarry,23,0
+503357,2026-09-27 21:24:19,Canal de Lachine,Vieux-Port,12,0
+503358,2026-09-27 21:24:33,Canal de Lachine,Métro Mont-Royal,23,0
+503359,2026-09-27 21:25:42,Parc La Fontaine,Métro Berri-UQAM,9,1
+503360,2026-09-27 21:26:00,Vieux-Port,Université McGill,12,0
+503361,2026-09-27 21:27:30,Métro Mont-Royal,Parc Jarry,23,0
+503362,2026-09-27 21:32:29,Parc La Fontaine,Marché Jean-Talon,13,0
+503363,2026-09-27 21:32:41,Vieux-Port,Métro Mont-Royal,27,1
+503364,2026-09-27 21:35:05,Métro Berri-UQAM,Parc La Fontaine,20,1
+503365,2026-09-27 21:38:12,Marché Jean-Talon,Métro Atwater,23,0
+503366,2026-09-27 21:39:11,Métro Berri-UQAM,Rue Saint-Denis,15,0
+503367,2026-09-27 21:41:29,Métro Mont-Royal,Université McGill,7,1
+503368,2026-09-27 21:45:21,Métro Mont-Royal,Métro Atwater,21,1
+503369,2026-09-27 21:47:49,Métro Mont-Royal,Marché Jean-Talon,6,0
+503370,2026-09-27 21:51:18,Université McGill,Métro Mont-Royal,19,0
+503371,2026-09-27 21:55:17,Rue Saint-Denis,Marché Jean-Talon,15,0
+503372,2026-09-27 22:00:54,Métro Mont-Royal,Métro Berri-UQAM,19,0
+503373,2026-09-27 22:02:21,Canal de Lachine,Métro Berri-UQAM,13,1
+503374,2026-09-27 22:08:54,Marché Jean-Talon,Université McGill,10,1
+503375,2026-09-27 22:09:56,Marché Jean-Talon,Vieux-Port,17,1
+503376,2026-09-27 22:10:27,Métro Berri-UQAM,Marché Jean-Talon,12,0
+503377,2026-09-27 22:16:20,Université McGill,Vieux-Port,17,1
+503378,2026-09-27 22:20:08,Métro Mont-Royal,Parc Jarry,15,0
+503379,2026-09-27 22:27:17,Rue Saint-Denis,Université McGill,12,0
+503380,2026-09-27 22:34:08,Métro Berri-UQAM,Marché Jean-Talon,6,0
+503381,2026-09-27 22:36:14,Parc La Fontaine,Rue Saint-Denis,19,0
+503382,2026-09-27 22:37:32,Marché Jean-Talon,Métro Atwater,10,1
+503383,2026-09-27 22:52:38,Parc La Fontaine,Vieux-Port,18,1
+503384,2026-09-27 22:54:56,Métro Berri-UQAM,Université McGill,16,0
+503385,2026-09-27 22:56:37,Métro Atwater,Vieux-Port,7,1
+503386,2026-09-27 22:58:08,Métro Mont-Royal,Parc Jarry,16,0
+503387,2026-09-27 22:59:11,Rue Saint-Denis,Canal de Lachine,29,1
+503388,2026-09-27 22:59:40,Université McGill,Vieux-Port,10,1
+503389,2026-09-27 23:02:20,Université McGill,Rue Saint-Denis,16,0
+503390,2026-09-27 23:02:48,Métro Atwater,Marché Jean-Talon,22,1
+503391,2026-09-27 23:06:38,Métro Atwater,Université McGill,22,1
+503392,2026-09-27 23:08:47,Rue Saint-Denis,Métro Mont-Royal,9,0
+503393,2026-09-27 23:13:22,Canal de Lachine,Université McGill,7,0
+503394,2026-09-27 23:16:42,Métro Mont-Royal,Métro Atwater,24,1
+503395,2026-09-27 23:22:36,Métro Berri-UQAM,Université McGill,10,1
+503396,2026-09-27 23:26:43,Marché Jean-Talon,Parc La Fontaine,18,0
+503397,2026-09-27 23:28:18,Métro Atwater,Vieux-Port,5,1
