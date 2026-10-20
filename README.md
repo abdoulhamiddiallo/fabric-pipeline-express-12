@@ -26,9 +26,9 @@ La requête de contrôle dans l'entrepôt : 14 jours, de 282 trajets le lundi 14
 
 ![La requête de contrôle dans WH_Bixi](images/controle_sql.png)
 
-Le lignage de l'espace de travail : le lakehouse et l'entrepôt, le Copy job `CJ_Bixi`, les connexions, et le pipeline qui les orchestre.
+Le lignage de l'espace de travail : le lakehouse et l'entrepôt, le Copy job `CJ_Bixi`, les connexions, et le pipeline qui les orchestre. Schéma redessiné à partir de la vue Lignage de Fabric ; la capture d'origine est dans [`images/lineage.png`](images/lineage.png).
 
-![Le lignage de l'espace de travail](images/lineage.png)
+![Le lignage de l'espace de travail](images/lineage.svg)
 
 ## 🎯 Résultats clés
 
@@ -149,10 +149,9 @@ Les 14 jours, du lundi 14 au dimanche 27 septembre 2026 :
 
 ```
 data/
-├── inbox/
-│   ├── bixi_week1.csv     1 772 trajets, du 14 au 20 septembre 2026
-│   └── bixi_week2.csv     1 625 trajets, du 21 au 27 septembre 2026
-└── expressions.txt        toutes les valeurs du guide, prêtes à copier
+├── bixi_week1.csv     1 772 trajets, du 14 au 20 septembre 2026
+├── bixi_week2.csv     1 625 trajets, du 21 au 27 septembre 2026
+└── expressions.txt    toutes les valeurs du guide, prêtes à copier
 ```
 
 Chaque trajet porte `trip_id` (500001 et suivants, jamais réutilisé), `started_at`, `start_station`, `end_station` (dix stations montréalaises, de Métro Mont-Royal au Canal de Lachine), `duration_min` et `ebike` (1 pour un vélo électrique). Données fictives, conçues pour l'exercice et reproductibles avec [`tools/generate_dataset.py`](tools/generate_dataset.py) ; [`tools/expected_results.py`](tools/expected_results.py) recalcule les résultats attendus après chaque exécution.
@@ -172,7 +171,7 @@ fabric-pipeline-express-12/
 ├── README.md
 ├── Pipeline_Fabric_Guide_12_public.pdf    le guide de 7 pages
 ├── data/
-│   ├── inbox/                             les deux semaines de trajets
+│   ├── bixi_week1.csv, bixi_week2.csv     les deux semaines de trajets
 │   └── expressions.txt                    toutes les valeurs à copier
 ├── sql/
 │   ├── 01_rain_effect.sql                 les deux requêtes du Script
@@ -185,7 +184,8 @@ fabric-pipeline-express-12/
     ├── pipeline_run.png                   PL_Bixi après une exécution réussie
     ├── teams_message.png                  le bilan dans Microsoft Teams
     ├── controle_sql.png                   la requête de contrôle, 14 jours
-    └── lineage.png                        le lignage de l'espace de travail
+    ├── lineage.svg                        le lignage de l'espace de travail, redessiné
+    └── lineage.png                        la capture d'origine du lignage
 ```
 
 ## 🧰 Stack technique
